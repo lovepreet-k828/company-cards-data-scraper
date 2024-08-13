@@ -1,0 +1,32 @@
+{
+    "companies": [
+        {
+            "name": "Aalpha Information Systems India Pvt. Ltd",
+            "view_profile_url": "https://clutch.co/profile/aalpha-information-systems-india"
+        },
+        {
+            "name": "MuchMore Software House",
+            "view_profile_url": "https://clutch.co/profile/muchmore-software-house"
+        },
+        {
+            "name": "W3care Technologies Pvt. Ltd.",
+            "view_profile_url": "https://clutch.co/profile/w3care-technologies"
+        },
+        {
+            "name": "MobileCoderz Technologies Pvt Ltd",
+            "view_profile_url": "https://clutch.co/profile/mobilecoderz-technologies"
+        },
+        {
+            "name": "Simform",
+            "view_profile_url": "https://clutch.co/profile/simform"
+        },
+        {
+            "name": "Techuz InfoWeb Pvt. Ltd.",
+            "view_profile_url": "https://clutch.co/profile/techuz-infoweb"
+        },
+        {
+            "name": "Developer Bazaar Technologies",
+            "view_profile_url": "https://clutch.co/profile/developer-bazaar-technologies"
+        }
+    ]
+}

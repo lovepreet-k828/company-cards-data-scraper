@@ -14,14 +14,11 @@ Structured Data:
   "about_us": "",
   "locations": [
     {
-      "is_headquarter": true,
       "street_address": "111 North Orange Avenue Suite 800",
       "city": "Orlando",
       "state": "FL",
       "postal_code": "32801",
       "country": "United States",
-      "is_verified": true,
-      "employees": "10 - 15"
     }
   ],
   "social_profile_link": {

@@ -2,7 +2,6 @@ from kor import create_extraction_chain, Object, Text
 from langchain_groq import ChatGroq
 
 llm = ChatGroq(
-    groq_api_key="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",
     model_name="llama3-70b-8192",
     temperature=0,
     max_tokens=2000,

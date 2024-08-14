@@ -1,0 +1,124 @@
+Structured Data:
+
+1. From GoodFirms:
+{
+  "company_name": "Simform",
+  "sector": "",
+  "logo_url": "https://img.shgstatic.com/clutch-static-prod/image/scale/50x50/s3fs-public/logos/simform_logo_400.png",
+  "company_tagline": "Your Digital Product Engineering & Gen AI Partner",
+  "website_link": "",
+  "avg_hourly_rate": "$25 - $49 / hr",
+  "employee_count": "1,000 - 9,999",
+  "primary_location": "Orlando, FL",
+  "founded_date": "Founded 2010",
+  "about_us": "",
+  "locations": [
+    {
+      "is_headquarter": true,
+      "street_address": "111 North Orange Avenue Suite 800",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32801",
+      "country": "United States",
+      "is_verified": true,
+      "employees": "10 - 15"
+    }
+  ],
+  "social_profile_link": {
+    "facebook": "",
+    "linked_in": "",
+    "twitter": ""
+  },
+  "focus_areas": {
+    "services_provided": [],
+    "industries": [],
+    "clients": []
+  },
+  "portfolio": {
+    "clients": []
+  },
+  "reviews": []
+}
+
+
+2. From Clutch:
+{
+  "company_name": "Simform",
+  "sector": "",
+  "logo_url": "https://img.shgstatic.com/clutch-static-prod/image/scale/50x50/s3fs-public/logos/simform_logo_400.png",
+  "company_tagline": "Your Digital Product Engineering & Gen AI Partner",
+  "website_link": "",
+  "min_project_size": "$25,000+",
+  "avg_hourly_rate": "$25 - $49 / hr",
+  "employee_count": "1,000 - 9,999",
+  "primary_location": "Orlando, FL",
+  "founded_date": "Founded 2010",
+  "about_us": "",
+  "locations": [
+    {
+      "is_headquarter": true,
+      "street_address": "111 North Orange Avenue Suite 800",
+      "city": "Orlando",
+      "state": "FL",
+      "postal_code": "32801",
+      "country": "United States",
+      "is_verified": true,
+      "employees": "10 - 15"
+    }
+  ],
+  "social_profile_link": {
+    "facebook": "",
+    "linked_in": "",
+    "instagram": "",
+    "twitter": ""
+  },
+  "focus_areas": {
+    "services_provided": [],
+    "focus": [],
+    "industries": [],
+    "clients": []
+  },
+  "portfolio": {
+    "awards": [],
+    "clients": []
+  },
+  "reviews": []
+}
+
+
+3. From Linked in:
+{
+  "company_name": "Simform",
+  "sector": "",
+  "logo_url": "https://img.shgstatic.com/clutch-static-prod/image/scale/50x50/s3fs-public/logos/simform_logo_400.png",
+  "company_tagline": "Your Digital Product Engineering & Gen AI Partner",
+  "website_link": "",
+  "type": "Privately Held",
+  "employee_count": "1,057",
+  "followers_count": "81,561",
+  "primary_location": "Orlando, FL",
+  "founded_date": "Founded 2010",
+  "specialities": [],
+  "about_us": "",
+  "posts": []
+}
+
+4. From Google Reviews:
+{
+  "place_id": "ChIJy0N80bHIXzkRXqWg66LaHBA",
+  "name": "e intelligence",
+  "is_spending_on_ads": false,
+  "reviews": 122,
+  "website": "https://www.eintelligenceweb.com/",
+  "main_category": "Marketing agency",
+  "categories": [
+    "Marketing agency",
+    "Advertising agency",
+    "Software company",
+    "Website designer"
+  ],
+  "rating": 4.2,
+  "address": "302/303 C-Square, Plot C Sarabhai Campus Bhailal Amin Marg, near Genda Circle, Vadodara, Gujarat 390023",
+  "link": "https://www.google.com/maps/place/e+intelligence/@23.2827494,80.0567227,14z/data=!4m6!3m5!1s0x395fc8b1d17c43cb:0x101cdaa2eba0a55e!8m2!3d22.3192289!4d73.1674062!16s%2Fg%2F1trc3c03?authuser=0&entry=ttu",
+  "detailed_reviews": []
+}

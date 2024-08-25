@@ -1,0 +1,278 @@
+{
+    "focus_areas_info": {
+        "service_provided": [
+            {
+                "title": "Service Lines",
+                "slices": [
+                    {
+                        "name": "Search Engine Optimization",
+                        "percent": "50"
+                    },
+                    {
+                        "name": "Pay Per Click",
+                        "percent": "30"
+                    },
+                    {
+                        "name": "Web Development",
+                        "percent": "20"
+                    }
+                ]
+            }
+        ],
+        "focus": [
+            {
+                "title": "Application Platforms",
+                "slices": [
+                    {
+                        "name": "Linux server",
+                        "percent": "80"
+                    },
+                    {
+                        "name": "Amazon Application Development Framework",
+                        "percent": "20"
+                    }
+                ]
+            },
+            {
+                "title": "Low Code Development",
+                "slices": [
+                    {
+                        "name": "Appsmith",
+                        "percent": "10"
+                    },
+                    {
+                        "name": "KISSFLOW",
+                        "percent": "10"
+                    },
+                    {
+                        "name": "Quixy",
+                        "percent": "10"
+                    },
+                    {
+                        "name": "Salesforce Lightning",
+                        "percent": "10"
+                    },
+                    {
+                        "name": "Airtable",
+                        "percent": "5"
+                    },
+                    {
+                        "name": "Appian",
+                        "percent": "5"
+                    },
+                    {
+                        "name": "Creatio",
+                        "percent": "5"
+                    },
+                    {
+                        "name": "Genexus",
+                        "percent": "5"
+                    },
+                    {
+                        "name": "Gramex",
+                        "percent": "5"
+                    },
+                    {
+                        "name": "Kintone",
+                        "percent": "5"
+                    },
+                    {
+                        "name": "Mendix",
+                        "percent": "5"
+                    },
+                    {
+                        "name": "OutSystems",
+                        "percent": "5"
+                    },
+                    {
+                        "name": "Pegasystems",
+                        "percent": "5"
+                    },
+                    {
+                        "name": "Skuid",
+                        "percent": "5"
+                    },
+                    {
+                        "name": "Visual Lansa",
+                        "percent": "5"
+                    },
+                    {
+                        "name": "Zoho Creator",
+                        "percent": "5"
+                    }
+                ]
+            },
+            {
+                "title": "No Code Development",
+                "slices": [
+                    {
+                        "name": "Adalo",
+                        "percent": "10"
+                    },
+                    {
+                        "name": "Airslate",
+                        "percent": "10"
+                    },
+                    {
+                        "name": "Appy Pie",
+                        "percent": "10"
+                    },
+                    {
+                        "name": "Bryter",
+                        "percent": "10"
+                    },
+                    {
+                        "name": "Bubble",
+                        "percent": "10"
+                    },
+                    {
+                        "name": "Nutshell",
+                        "percent": "10"
+                    },
+                    {
+                        "name": "Thunkable",
+                        "percent": "10"
+                    },
+                    {
+                        "name": "WEM",
+                        "percent": "10"
+                    },
+                    {
+                        "name": "Webflow",
+                        "percent": "10"
+                    },
+                    {
+                        "name": "Xano",
+                        "percent": "10"
+                    }
+                ]
+            },
+            {
+                "title": "Frameworks and CMS",
+                "slices": [
+                    {
+                        "name": "Laravel",
+                        "percent": "50"
+                    },
+                    {
+                        "name": "WordPress CMS",
+                        "percent": "50"
+                    }
+                ]
+            },
+            {
+                "title": "Programming & Scripting",
+                "slices": [
+                    {
+                        "name": "PHP",
+                        "percent": "100"
+                    }
+                ]
+            },
+            {
+                "title": "SEO Focus",
+                "slices": [
+                    {
+                        "name": "On site optimization",
+                        "percent": "50"
+                    },
+                    {
+                        "name": "SEO Reputation Management",
+                        "percent": "50"
+                    }
+                ]
+            },
+            {
+                "title": "PPC Focus",
+                "slices": [
+                    {
+                        "name": "Google Adwords",
+                        "percent": "100"
+                    }
+                ]
+            }
+        ],
+        "industries": [
+            {
+                "title": "Industries",
+                "slices": [
+                    {
+                        "name": "eCommerce",
+                        "percent": "20"
+                    },
+                    {
+                        "name": "Dental",
+                        "percent": "15"
+                    },
+                    {
+                        "name": "Business services",
+                        "percent": "10"
+                    },
+                    {
+                        "name": "Advertising & marketing",
+                        "percent": "5"
+                    },
+                    {
+                        "name": "Automotive",
+                        "percent": "5"
+                    },
+                    {
+                        "name": "Education",
+                        "percent": "5"
+                    },
+                    {
+                        "name": "Financial services",
+                        "percent": "5"
+                    },
+                    {
+                        "name": "Hospitality & leisure",
+                        "percent": "5"
+                    },
+                    {
+                        "name": "Legal",
+                        "percent": "5"
+                    },
+                    {
+                        "name": "Legal Cannabis",
+                        "percent": "5"
+                    },
+                    {
+                        "name": "Manufacturing",
+                        "percent": "5"
+                    },
+                    {
+                        "name": "Medical",
+                        "percent": "5"
+                    },
+                    {
+                        "name": "Other industries",
+                        "percent": "5"
+                    },
+                    {
+                        "name": "Real estate",
+                        "percent": "5"
+                    }
+                ]
+            }
+        ],
+        "clients": [
+            {
+                "title": "Clients",
+                "slices": [
+                    {
+                        "name": "Small Business (<$10M)",
+                        "percent": "50"
+                    },
+                    {
+                        "name": "Midmarket ($10M - $1B)",
+                        "percent": "30"
+                    },
+                    {
+                        "name": "Enterprise (>$1B)",
+                        "percent": "20"
+                    }
+                ]
+            }
+        ]
+    }
+}

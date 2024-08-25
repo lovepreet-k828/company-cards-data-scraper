@@ -1,0 +1,104 @@
+{
+    "portfolio_and_awards_info": {
+        "key_clients": [
+            "Channers on Norfolk"
+        ],
+        "portfolio": [
+            {
+                "title": "Digital Marketing - SEO & PPC for a Boutique Hotel",
+                "services": [
+                    "Search Engine Optimization"
+                ],
+                "image_url": "https://img.shgstatic.com/clutch-static-prod/image/resize/500x350/s3fs-public/portfolio/ffc3fdff787e5288293b499f13985dde.png"
+            },
+            {
+                "title": "SEO for a Global Ecommerce Gifts & Flowers Company",
+                "services": [
+                    "Search Engine Optimization"
+                ],
+                "image_url": "data:image/svg+xml;utf8,%3csvg%20fill=%27none%27%20height=%27240%27%20viewBox=%270%200%20340%20240%27%20width=%27340%27%20xmlns=%27http://www.w3.org/2000/svg%27%3e%3crect%20fill=%27%23FAFAFA%27%20height=%27239%27%20stroke=%27%23CAE0E7%27%20width=%27339%27%20x=%270.5%27%20y=%270.5%27/%3e%3cpath%20d=%27M178.082%2083.1018C175.068%2080.0588%20171.483%2077.6413%20167.532%2075.9881C163.581%2074.3349%20159.342%2073.4785%20155.059%2073.4682C150.777%2073.4579%20146.534%2074.2939%20142.575%2075.9281C138.616%2077.5623%20135.02%2079.9626%20131.991%2082.991C128.963%2086.0194%20126.562%2089.6164%20124.928%2093.5751C123.294%2097.5339%20122.458%20101.777%20122.468%20106.059C122.479%20110.342%20123.335%20114.581%20124.988%20118.532C126.641%20122.483%20129.059%20126.068%20132.102%20129.082C138.209%20135.131%20146.464%20138.515%20155.059%20138.494C163.655%20138.474%20171.893%20135.05%20177.972%20128.972C184.05%20122.893%20187.474%20114.655%20187.494%20106.059C187.515%2097.4635%20184.131%2089.2092%20178.082%2083.1018ZM175.934%20126.935C171.111%20131.77%20164.761%20134.783%20157.965%20135.459C151.17%20136.136%20144.35%20134.435%20138.668%20130.646C132.986%20126.857%20128.794%20121.215%20126.807%20114.682C124.819%20108.148%20125.159%20101.128%20127.769%2094.8166C130.378%2088.5057%20135.095%2083.295%20141.117%2080.0728C147.138%2076.8506%20154.09%2075.8163%20160.789%2077.1463C167.487%2078.4763%20173.517%2082.0882%20177.85%2087.3664C182.184%2092.6445%20184.552%2099.2622%20184.553%20106.091C184.565%20109.963%20183.81%20113.798%20182.331%20117.376C180.852%20120.954%20178.677%20124.202%20175.934%20126.934V126.935Z%27%20fill=%27%23CECECE%27/%3e%3cpath%20d=%27M219.931%20150.417L210.434%20142.258L210.429%20142.253L199.863%20133.179L191.262%20125.792C195.99%20117.105%20197.43%20107.006%20195.317%2097.3446C193.205%2087.6829%20187.683%2079.1057%20179.762%2073.1842C171.841%2067.2626%20162.051%2064.3932%20152.187%2065.1016C142.323%2065.8099%20133.044%2070.0486%20126.05%2077.0412C119.056%2084.0338%20114.816%2093.3121%20114.106%20103.176C113.396%20113.041%20116.264%20122.831%20122.184%20130.753C128.105%20138.675%20136.681%20144.198%20146.342%20146.312C156.004%20148.426%20166.103%20146.987%20174.79%20142.261L182.18%20150.863L182.74%20151.517L199.416%20170.93C200.723%20172.448%20202.328%20173.68%20204.132%20174.551C205.936%20175.421%20207.899%20175.911%20209.901%20175.99C210.083%20175.997%20210.264%20176%20210.447%20176C213.418%20176.001%20216.319%20175.092%20218.759%20173.396C221.198%20171.699%20223.06%20169.296%20224.093%20166.509C225.126%20163.723%20225.281%20160.687%20224.537%20157.81C223.793%20154.933%20222.185%20152.353%20219.931%20150.417ZM185.402%20149.951L198.952%20136.401L207.206%20143.491L192.492%20158.206L185.402%20149.951ZM128.114%20133.071C122.778%20127.735%20119.144%20120.936%20117.672%20113.534C116.199%20106.133%20116.955%2098.461%20119.843%2091.4889C122.731%2084.5168%20127.621%2078.5576%20133.896%2074.3649C140.171%2070.1723%20147.548%2067.9345%20155.094%2067.9345C162.641%2067.9345%20170.018%2070.1723%20176.293%2074.3649C182.568%2078.5576%20187.458%2084.5168%20190.346%2091.4889C193.234%2098.461%20193.99%20106.133%20192.517%20113.534C191.045%20120.936%20187.411%20127.735%20182.075%20133.071C178.548%20136.645%20174.347%20139.482%20169.716%20141.419C165.084%20143.356%20160.113%20144.353%20155.093%20144.353C150.072%20144.353%20145.102%20143.356%20140.47%20141.419C135.838%20139.482%20131.637%20136.645%20128.111%20133.071H128.114ZM184.223%20135.219C186.28%20133.162%20188.113%20130.892%20189.691%20128.449L196.644%20134.421L183.417%20147.64L177.444%20140.688C179.889%20139.109%20182.161%20137.276%20184.219%20135.219H184.223ZM218.595%20169.592C217.475%20170.712%20216.135%20171.589%20214.659%20172.168C213.184%20172.747%20211.605%20173.014%20210.021%20172.954C208.437%20172.894%20206.883%20172.508%20205.456%20171.819C204.028%20171.13%20202.759%20170.154%20201.726%20168.952L194.482%20160.518L209.521%20145.477L217.956%20152.723C219.159%20153.756%20220.134%20155.026%20220.823%20156.453C221.511%20157.88%20221.898%20159.434%20221.958%20161.018C222.018%20162.602%20221.75%20164.18%20221.171%20165.656C220.593%20167.131%20219.716%20168.471%20218.595%20169.592Z%27%20fill=%27%23CECECE%27/%3e%3cpath%20d=%27M141.469%20107.319L153.406%2094.967%27%20stroke=%27%23267C87%27%20stroke-linejoin=%27round%27%20stroke-width=%271.25%27/%3e%3cpath%20d=%27M161.67%2095.1989L177.272%20108.287%27%20stroke=%27%23267C87%27%20stroke-linejoin=%27round%27%20stroke-width=%271.25%27/%3e%3cpath%20d=%27M186.012%20107.417L203.358%2089.4167%27%20stroke=%27%23267C87%27%20stroke-linejoin=%27round%27%20stroke-width=%271.25%27/%3e%3ccircle%20cx=%27137.474%27%20cy=%27111.404%27%20fill=%27%23FAFAFA%27%20r=%275.48023%27%20stroke=%27%23267C87%27%20stroke-width=%271.25%27/%3e%3ccircle%20cx=%27157.675%27%20cy=%2791.2039%27%20fill=%27%23FAFAFA%27%20r=%275.48023%27%20stroke=%27%23267C87%27%20stroke-width=%271.25%27/%3e%3ccircle%20cx=%27182.017%27%20cy=%27111.502%27%20fill=%27%23FAFAFA%27%20r=%275.48023%27%20stroke=%27%23267C87%27%20stroke-width=%271.25%27/%3e%3ccircle%20cx=%27206.156%27%20cy=%2785.1437%27%20fill=%27%23FAFAFA%27%20r=%275.48023%27%20stroke=%27%23267C87%27%20stroke-width=%271.25%27/%3e%3c/svg%3e"
+            },
+            {
+                "title": "SEO for Fintech Startup - 2x Website Signups",
+                "services": [
+                    "Search Engine Optimization"
+                ],
+                "image_url": "https://img.shgstatic.com/clutch-static-prod/image/resize/500x350/s3fs-public/portfolio/fa1dbce1463f4302c8750d69e8d5a863.png"
+            },
+            {
+                "title": "SEO Case Study - Pest Control - Traffic Doubled",
+                "services": [
+                    "Search Engine Optimization"
+                ],
+                "image_url": "https://img.shgstatic.com/clutch-static-prod/image/resize/500x350/s3fs-public/portfolio/75b0b716e5e7bfb7634291f2c9f82220.png"
+            }
+        ],
+        "clutch_awards": [
+            {
+                "image_url": "https://shareables-prod-static.clutch.co/badges/top_clutch.co_ppc_company_melbourne_2024.svg"
+            },
+            {
+                "image_url": "https://shareables-prod-static.clutch.co/badges/top_clutch.co_digital_marketing_company_melbourne_2024.svg"
+            },
+            {
+                "image_url": "https://shareables-prod-static.clutch.co/badges/top_clutch.co_seo_company_melbourne_2024.svg"
+            },
+            {
+                "image_url": "https://shareables-prod-static.clutch.co/badges/top_clutch.co_digital_marketing_company_staten_island_2024.svg"
+            },
+            {
+                "image_url": "https://shareables-prod-static.clutch.co/badges/top_clutch.co_seo_company_london_2024.svg"
+            }
+        ],
+        "industry_recognitions": [
+            {
+                "title": "Featured on CNBC",
+                "link": "https://www.cnbc.com/2017/02/24/yes-theres-an-app-for-that-but-should-you-pay-for-it.html"
+            },
+            {
+                "title": "Featured on HuffPost",
+                "link": "https://www.huffpost.com/entry/what-the-att-time-warner-merger-will-actually-do-to_b_5815caf7e4b08301d33e0b02"
+            },
+            {
+                "title": "Highly Rated on Google",
+                "link": "https://www.google.com/search?q=e%20intelligence%20india&newwindow=1&biw=1428&bih=658&ei=02BJZOCfAuCnkdUPwY6ggAI&ved=2ahUKEwiE-cboisj-AhUgWqQEHbN3CnIQvS56BAgMEAE&uact=5&oq=e+intelligence+india&gs_lcp="
+            },
+            {
+                "title": "Red Herring Asia Top 100",
+                "link": "https://www.redherring.com/events/red-herring-asia/2014top100/"
+            },
+            {
+                "title": "Featured on Yahoo Finance",
+                "link": "https://sg.finance.yahoo.com/news/yes-theres-app-pay-162807596.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAABPLLgiAvvAopHCOmfW8sqASFAhfbEsDSP8ak2W2s2Ex15b6NiL"
+            },
+            {
+                "title": "Great Reviews on Glassdoor",
+                "link": "https://www.glassdoor.co.uk/Reviews/e-intelligence-Reviews-E887545.htm"
+            },
+            {
+                "title": "Best SEO Reseller Companies",
+                "link": "https://www.topseos.com/ie/best-seo-reseller-companies-in-ireland"
+            },
+            {
+                "title": "Featured on CEO Blog Nation",
+                "link": "https://hear.ceoblognation.com/2023/04/23/30-entrepreneurs-share-their-thoughts-on-industries-that-need-technology-innovation-the-most/"
+            },
+            {
+                "title": "Featured on The Independent",
+                "link": "https://directory.independent.co.uk/company/e-intelligence/21651971"
+            },
+            {
+                "title": "Featured on Website Magazine",
+                "link": "https://www.websitemagazine.com/web-design/most-common-digital-design-distractions"
+            },
+            {
+                "title": "Ranked #8 Best Enterprise SEO Company",
+                "link": "https://www.topseos.com/in/best-enterprise-seo-companies-in-india"
+            },
+            {
+                "title": "Featured on It's a Definite Maybe Podcast",
+                "link": "https://open.spotify.com/episode/0oWyg6XSTH9WLIHMOh8gyd?si=e3d56f30afb0416c"
+            }
+        ]
+    }
+}

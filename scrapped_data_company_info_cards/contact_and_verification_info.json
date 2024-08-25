@@ -1,0 +1,77 @@
+{
+    "contact_and_verification_info": {
+        "linkedin_profile_url": "https://www.linkedin.com/company/e-intelligence",
+        "facebook_profile_url": "https://www.facebook.com/eintelligence/",
+        "twitter_profile_url": "https://twitter.com/eintelligence?lang=en",
+        "instagram_profile_url": "https://www.instagram.com/eintelligence/?hl=en",
+        "website_url": "https://eintelligenceweb.com/digital-marketing-services-clutch",
+        "verification_info": {
+            "no_of_verified_client_reviews": 22,
+            "overall_review_rating": 4.9,
+            "source": "Clutch",
+            "last_updated": "May 13, 2024",
+            "business_entity": {
+                "Business Entity Name": "e intelligence Ltd",
+                "Source": "Creditsafe",
+                "Jurisdiction of Formation": "United Kingdom",
+                "Date of Formation": "December 4, 2019",
+                "Status": "Active",
+                "Last Updated": "March 28, 2023",
+                "ID": "12348348",
+                "International Credit Risk Assessment": "Very Low Risk"
+            },
+            "payment_and_legal_filings": {
+                "Business Entity Name": "e intelligence Ltd",
+                "Source": "Creditsafe",
+                "Jurisdiction of Formation": "United Kingdom",
+                "Date of Formation": "December 4, 2019",
+                "Status": "Active",
+                "Last Updated": "March 28, 2023",
+                "ID": "12348348",
+                "International Credit Risk Assessment": "Very Low Risk"
+            }
+        },
+        "all_addresses": [
+            {
+                "is_headquarter": true,
+                "street_address": "100 Bollo Lane",
+                "city": "London",
+                "state": null,
+                "postal_code": "W4 5LX",
+                "country": "United Kingdom",
+                "is_verified": false,
+                "employees": "2 - 9"
+            },
+            {
+                "is_headquarter": false,
+                "street_address": "42 Oliver Avenue",
+                "city": "Edison",
+                "state": "NJ",
+                "postal_code": "08820",
+                "country": "United States",
+                "is_verified": false,
+                "employees": "2 - 9"
+            },
+            {
+                "is_headquarter": false,
+                "street_address": "152 Peel Street",
+                "city": "Windsor",
+                "state": null,
+                "postal_code": "3181",
+                "country": "Australia",
+                "is_verified": false,
+                "employees": "2 - 9"
+            },
+            {
+                "is_headquarter": false,
+                "street_address": "302/303 C-Square, near Genda Circle",
+                "city": "Vadodara",
+                "state": null,
+                "postal_code": "390023",
+                "country": "India",
+                "is_verified": false,
+                "employees": "10 - 15"
+            }
+        ]
+    }
+}

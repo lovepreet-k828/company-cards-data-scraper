@@ -1,0 +1,1968 @@
+{
+    "reviews_info": {
+        "clutch_reviews": {
+            "review_summary": {
+                "reviews_count": "23",
+                "overall_review_rating": "4.9",
+                "review_rating_breakdown": {
+                    "Quality": "4.9",
+                    "Schedule": "4.9",
+                    "Cost": "4.9",
+                    "Willing to Refer": "4.8"
+                }
+            },
+            "clutch_ai_review_insights": {
+                "Top Mentions": {
+                    "timely": 9,
+                    "communicative": 8,
+                    "high-quality work": 6,
+                    "proactive": 6,
+                    "professional": 5,
+                    "well-organized projects": 5,
+                    "helpful": 4,
+                    "flexible": 3
+                },
+                "Review Highlights": {
+                    "Strong SEO Capabilities": "e intelligence has consistently demonstrated strong SEO capabilities, helping clients improve search engine rankings, increase organic traffic, and achieve higher visibility. Clients reported significant improvements in keyword rankings and organic impressions.",
+                    "Room for Improvement in Content Creation": "While generally satisfied, some clients mentioned that there is room for improvement in content creation, particularly in ensuring content aligns perfectly with the client's brand voice and audience.",
+                    "Transparency and Honesty": "e intelligence's transparency and honesty were appreciated by clients. They felt that the company provided sincere and honest advice, which built trust and confidence in their services.",
+                    "Excellent Communication": "The communication skills of e intelligence were frequently highlighted as a strength. Clients appreciated their proactive communication, responsiveness, and the detailed explanations provided throughout the projects.",
+                    "Highly Recommended by Clients": "Many clients highly recommended e intelligence for their digital marketing and web development needs, citing their exceptional service, expertise, and positive results.",
+                    "Proficiency in Web Development": "e intelligence's proficiency in web development was highly regarded. Clients praised the visually appealing, user-friendly, and SEO-optimized websites created by the team."
+                }
+            },
+            "reviews": [
+                {
+                    "title": "SEO Services for Real Estate Company",
+                    "reviewer_info": {
+                        "reviewer_name": "Helena Samzadeh",
+                        "reviewer_position": "Real Estate Agent, Terrace Real Estate Company Ltd",
+                        "location": "Terrace, British Columbia",
+                        "company_size": "1-10 Employees",
+                        "review_type": "Online Review",
+                        "verified": true,
+                        "company_name": "Terrace Real Estate Company Ltd"
+                    },
+                    "review_info": {
+                        "review_quote": "Their deliverables were excellent.",
+                        "review_date": "February 25, 2024",
+                        "review_rating": {
+                            "overall_rating": "5.0",
+                            "rating_breakdown": {
+                                "Quality": "5.0",
+                                "Schedule": "5.0",
+                                "Cost": "5.0",
+                                "Willing to Refer": "5.0"
+                            }
+                        },
+                        "review_feedback_summary": "Thanks to e intelligence’s efforts, the client saw a 15x increase in their site's weekly organic impressions. The team managed the project as professionally as possible — the quality of their work was superb, and meetings were always productive. They were also flexible and easy to work with."
+                    },
+                    "project_info": {
+                        "Services": "Search Engine Optimization",
+                        "Project size": "Confidential",
+                        "Project length": "June - Nov. 2023",
+                        "project_summary": "A real estate company hired e intelligence for their SEO services. The team completed an audit of the client's website and provided a roadmap to help improve their SERP rankings."
+                    },
+                    "detailed_review": {
+                        "background": [
+                            {
+                                "qus": "Please describe your company and position.",
+                                "ans": "I am the Real Estate Agent of Terrace Real Estate Company Ltd."
+                            },
+                            {
+                                "qus": "Describe what your company does in a single sentence.",
+                                "ans": "we are real estate company and we provide our clients with the assurance of honest service and an intimate familiarity with the area and strive to grow the personal relationships with our clients we work with."
+                            }
+                        ],
+                        "challenge": [
+                            {
+                                "qus": "What specific goals or objectives did you hire e intelligence to accomplish?",
+                                "ans": "e intelligence was brought on board to audit our books and assist in raising our SERP positions."
+                            }
+                        ],
+                        "solution": [
+                            {
+                                "qus": "How did you find e intelligence?",
+                                "ans": "Online Search Clutch Site"
+                            },
+                            {
+                                "qus": "Why did you select e intelligence over others?",
+                                "ans": "Pricing fit our budget Good value for cost Company values aligned"
+                            },
+                            {
+                                "qus": "How many teammates from e intelligence were assigned to this project?",
+                                "ans": "2-5 Employees"
+                            },
+                            {
+                                "qus": "Describe the scope of work in detail. Please include a summary of key deliverables.",
+                                "ans": "We had e intelligence complete an audit of our accounts. That audit created the roadmap for us to complete the work needed to improve results. They provided an excellent PowerPoint presentation of the audit findings, which was put together with excellent quality and I was able to show to our CEO, and they provided the supporting Excel docs that our marketers could use to execute.From all the findings, we were able to easily distribute the workload across Victorious, internal staff and our website vendor."
+                            }
+                        ],
+                        "results": [
+                            {
+                                "qus": "What were the measurable outcomes from the project that demonstrate progress or success?",
+                                "ans": "Our website was newer, so that's a caveat, but we've seen a 15x improvement in the number of weekly organic impressions. We're ahead of pace with our results, and I'm thrilled about it."
+                            },
+                            {
+                                "qus": "Describe their project management. Did they deliver items on time? How did they respond to your needs?",
+                                "ans": "The whole e intelligence crew exuded professionalism. The partnership was easy to maintain. Their deliverables were excellent, and their meetings were fruitful."
+                            },
+                            {
+                                "qus": "What was your primary form of communication with e intelligence?",
+                                "ans": "Virtual Meeting Email or Messaging App"
+                            },
+                            {
+                                "qus": "What did you find most impressive or unique about this company?",
+                                "ans": "I liked the fact that they provided actionable recommendations. They limited the speculation that's often provided by marketing agencies, and they provided a roadmap that we followed, and it paid off tremendously. I also like the fact that they have \"flex credits\" that can be used on any number of things based on the client's goals (which, in our case, was regularly changing)."
+                            },
+                            {
+                                "qus": "Are there any areas for improvement or something e intelligence could have done differently?",
+                                "ans": "I would have liked to have had a little more time with their technical team. Every time I interacted with them they impressed me."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "Web Dev, Lead Gen & SEO for Commercial Cleaning Company",
+                    "reviewer_info": {
+                        "reviewer_name": "Andrew Gandolfo",
+                        "reviewer_position": "Owner, Pure Touch Cleaning Services",
+                        "location": "Brooklyn, New York",
+                        "company_size": "1-10 Employees",
+                        "review_type": "Online Review",
+                        "verified": true,
+                        "company_name": "Pure Touch Cleaning Services"
+                    },
+                    "review_info": {
+                        "review_quote": "They have everything laid out, so we always know what’s coming and what we’re getting for our money.",
+                        "review_date": "February 22, 2024",
+                        "review_rating": {
+                            "overall_rating": "5.0",
+                            "rating_breakdown": {
+                                "Quality": "5.0",
+                                "Schedule": "5.0",
+                                "Cost": "5.0",
+                                "Willing to Refer": "5.0"
+                            }
+                        },
+                        "review_feedback_summary": "The engagement has been successful: e intelligence provides reports on several metrics and a lead generation tracker. The team promptly volunteers information, explains things clearly, and communicates well through phone calls, Zoom, and in-person meetings. Their transparency inspires confidence."
+                    },
+                    "project_info": {
+                        "Services": "Marketing Strategy\nSearch Engine Optimization\nWeb Development",
+                        "Project size": "$10,000 to $49,999",
+                        "Project length": "Oct. 2023 - Ongoing",
+                        "project_summary": "e intelligence has evaluated and revamped a commercial cleaning company's website. The team is currently working on SEO and lead generation and will provide social media marketing later."
+                    },
+                    "detailed_review": {
+                        "background": [
+                            {
+                                "qus": "Please describe your company and position.",
+                                "ans": "I am the Owner of Pure Touch Cleaning Services"
+                            },
+                            {
+                                "qus": "Describe what your company does in a single sentence.",
+                                "ans": "We are commercial cleaning company."
+                            }
+                        ],
+                        "challenge": [
+                            {
+                                "qus": "What specific goals or objectives did you hire e intelligence to accomplish?",
+                                "ans": "We needed help with marketing and advertising."
+                            }
+                        ],
+                        "solution": [
+                            {
+                                "qus": "How did you find e intelligence?",
+                                "ans": "I found them through an action coaching organization."
+                            },
+                            {
+                                "qus": "Why did you select e intelligence over others?",
+                                "ans": "Good value for cost Company values aligned"
+                            },
+                            {
+                                "qus": "How many teammates from e intelligence were assigned to this project?",
+                                "ans": "6-10 Employees"
+                            },
+                            {
+                                "qus": "Describe the scope of work in detail. Please include a summary of key deliverables.",
+                                "ans": "We initially wanted to focus on our website, so e Intelligence started by evaluating our site. Once they did that evaluation, they revamped it. Since it was a completely new thing for us, we let them take the creative role. We didn’t provide them with anything. We’re currently working with them on SEO and lead generation opportunities. Later on, they’ll work on social media."
+                            }
+                        ],
+                        "results": [
+                            {
+                                "qus": "What were the measurable outcomes from the project that demonstrate progress or success?",
+                                "ans": "They provide reports around click rates, cost per lead, cost per acquisition, and so on. We’ve also got a lead-generation tracker and are sending out requests for customers to review our site."
+                            },
+                            {
+                                "qus": "Describe their project management. Did they deliver items on time? How did they respond to your needs?",
+                                "ans": "They’ve been prompt and given us a lot of information. If we don’t understand something, they walk us through everything and take the time to explain it, so they’re very helpful in that aspect. Moreover, they provide us with many details to understand what's going on with our marketing and how to grow our leads or reach more customers. We’ve communicated via phone, Zoom calls, and one face-to-face meeting."
+                            },
+                            {
+                                "qus": "What was your primary form of communication with e intelligence?",
+                                "ans": "Virtual Meeting Email or Messaging App"
+                            },
+                            {
+                                "qus": "What did you find most impressive or unique about this company?",
+                                "ans": "Everything is automated, so we don’t have to worry about anything. They has everything set up, and they walk us through the process every step of the way. When we have questions, they’re willing to jump on a call and help us out. Overall, they have everything laid out, so we always know what’s coming and what we’re getting for our money."
+                            },
+                            {
+                                "qus": "Are there any areas for improvement or something e intelligence could have done differently?",
+                                "ans": "No, we have no reason to doubt that what we’re doing today won’t get us to where we want to be."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "SEO Services for Toy Manufacturing Company",
+                    "reviewer_info": {
+                        "reviewer_name": "Deepak Pandiyan",
+                        "reviewer_position": "Product Development Manager, Funskool",
+                        "location": "Chennai, India",
+                        "company_size": "501-1,000 Employees",
+                        "review_type": "Online Review",
+                        "verified": true,
+                        "company_name": "Funskool"
+                    },
+                    "review_info": {
+                        "review_quote": "We felt from day one that we received the most sincere and honest advice for what we needed to accomplish.",
+                        "review_date": "February 19, 2024",
+                        "review_rating": {
+                            "overall_rating": "5.0",
+                            "rating_breakdown": {
+                                "Quality": "5.0",
+                                "Schedule": "5.0",
+                                "Cost": "5.0",
+                                "Willing to Refer": "5.0"
+                            }
+                        },
+                        "review_feedback_summary": "Thanks to e intelligence's efforts, the client achieved rankings on critical keywords and increased their conversion rate by 35%. The team was precise, attentive, and easy to work with; they provided weekly reports and tracked all SEO activity. Moreover, they were outstandingly transparent."
+                    },
+                    "project_info": {
+                        "Services": "Search Engine Optimization",
+                        "Project size": "$50,000 to $199,999",
+                        "Project length": "June - Nov. 2023",
+                        "project_summary": "e intelligence provided SEO services for a toy manufacturer. The team was responsible for website auditing, content creation, keyword research, link building, performance tracking, and SEO consultation."
+                    },
+                    "detailed_review": {
+                        "background": [
+                            {
+                                "qus": "Please describe your company and position.",
+                                "ans": "I am the Product Development Manager of Funskool"
+                            },
+                            {
+                                "qus": "Describe what your company does in a single sentence.",
+                                "ans": "Funskool Limited is India’s leading toy manufacturing company."
+                            }
+                        ],
+                        "challenge": [
+                            {
+                                "qus": "What specific goals or objectives did you hire e intelligence to accomplish?",
+                                "ans": "Begin ranking on the first page for crew toy-related keywords. Increase organic revenue. Increase organic traffic."
+                            }
+                        ],
+                        "solution": [
+                            {
+                                "qus": "How did you find e intelligence?",
+                                "ans": "Referral"
+                            },
+                            {
+                                "qus": "Why did you select e intelligence over others?",
+                                "ans": "Great culture fit Good value for cost Referred to me"
+                            },
+                            {
+                                "qus": "How many teammates from e intelligence were assigned to this project?",
+                                "ans": "6-10 Employees"
+                            },
+                            {
+                                "qus": "Describe the scope of work in detail. Please include a summary of key deliverables.",
+                                "ans": "Our organization has had nothing but great experiences working with e intelligence, and we are happy to offer a thorough overview of the task that was assigned as well as the excellent deliverables that they produced during our collaboration. They demonstrated their proficiency in search engine optimization and their dedication to accomplishing our business goals right from the start of the consultation.The work's scope included optimizing our website's visibility, boosting natural search traffic, and boosting conversion rates. Their all-encompassing approach ensured that the Hellas brand would have the most visibility and interaction possible by addressing both on-page and off-page SEO variables."
+                            }
+                        ],
+                        "results": [
+                            {
+                                "qus": "What were the measurable outcomes from the project that demonstrate progress or success?",
+                                "ans": "For the most part, when we began our engagement we were starting from ground zero and had to work our way into relevancy. We witnessed significant progress on this front which is why we continue to work with them to this day - the ultimate testament of their demonstrated progress.Keyword Ranking Improvement: Through meticulous keyword research and optimization, they helped us achieve higher rankings for relevant search keywords in our niche, specific to crew socks. As a result, we witnessed a remarkable improvement in our keyword rankings, with several critical keywords securing a place on the first page of search engine results.Conversion Rate Enhancement: The ultimate measure of success for any SEO campaign is its impact on conversions. e-intelligence excelled in this aspect, as we observed a notable increase in our conversion rates. Their strategic optimization efforts, combined with compelling content creation and intuitive user experience improvements, led to a remarkable 35% increase in our website's conversion rate."
+                            },
+                            {
+                                "qus": "Describe their project management. Did they deliver items on time? How did they respond to your needs?",
+                                "ans": "With them, everything was precise. We have employed a thorough tracker that documents ALL SEO activity on all fronts and displays item status updates in real-time since day one. We receive weekly reports that assist us in continuously analyzing and interpreting the work that is submitted, as well as in identifying opportunities for improvement.The best part is that we view e-intelligence SEO Agency as an extension of our own staff because of how attentive they are. Working with the e-intelligence team has been an amazing pleasure, and we are delighted to leave this fantastic review on their behalf."
+                            },
+                            {
+                                "qus": "What was your primary form of communication with e intelligence?",
+                                "ans": "Virtual Meeting Email or Messaging App"
+                            },
+                            {
+                                "qus": "What did you find most impressive or unique about this company?",
+                                "ans": "Definitely the degree of transparency. In addition to always being guided through and shown the procedure along the way, we felt from day one that we received the most sincere and honest advice for what we needed to accomplish. We've had an amazing experience and are eager to use e-intelligence in all of our future activities."
+                            },
+                            {
+                                "qus": "Are there any areas for improvement or something e intelligence could have done differently?",
+                                "ans": "Not at the moment."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "Web Dev & SEO for Nutrition & Wellness Consultancy",
+                    "reviewer_info": {
+                        "reviewer_name": "Prachi Shah",
+                        "reviewer_position": "Founder, Health Habitat",
+                        "location": "India",
+                        "company_size": "1-10 Employees",
+                        "review_type": "Online Review",
+                        "verified": true,
+                        "company_name": "Health Habitat"
+                    },
+                    "review_info": {
+                        "review_quote": "The team members followed up regularly to get the work done and finished the project on time.",
+                        "review_date": "September 6, 2023",
+                        "review_rating": {
+                            "overall_rating": "5.0",
+                            "rating_breakdown": {
+                                "Quality": "5.0",
+                                "Schedule": "5.0",
+                                "Cost": "5.0",
+                                "Willing to Refer": "5.0"
+                            }
+                        },
+                        "review_feedback_summary": "e intelligence successfully delivered a fully-functional website and optimized the client's online visibility. The team adhered to deadlines, and internal stakeholders were impressed with the service provider's organized approach."
+                    },
+                    "project_info": {
+                        "Services": "Search Engine Optimization\nWeb Development",
+                        "Project size": "Less than $10,000",
+                        "Project length": "Mar. - Aug. 2023",
+                        "project_summary": "e intelligence developed a website for a nutrition and wellness consultancy. The team revamped the client's website and managed their SEO efforts to boost branding presence and online sales."
+                    },
+                    "detailed_review": {
+                        "background": [
+                            {
+                                "qus": "Please describe your company and position.",
+                                "ans": "I am the Founder of Health Habitat"
+                            },
+                            {
+                                "qus": "Describe what your company does in a single sentence.",
+                                "ans": "Health Habitat is a nutrition & wellness consultancy"
+                            }
+                        ],
+                        "challenge": [
+                            {
+                                "qus": "What specific goals or objectives did you hire e intelligence to accomplish?",
+                                "ans": "Web Development Digital Marketing"
+                            }
+                        ],
+                        "solution": [
+                            {
+                                "qus": "How did you find e intelligence?",
+                                "ans": "Referral Other"
+                            },
+                            {
+                                "qus": "Why did you select e intelligence over others?",
+                                "ans": "High ratings Good value for cost Company values aligned"
+                            },
+                            {
+                                "qus": "How many teammates from e intelligence were assigned to this project?",
+                                "ans": "2-5 Employees"
+                            },
+                            {
+                                "qus": "Describe the scope of work in detail. Please include a summary of key deliverables.",
+                                "ans": "I approached E intelligence for web development for my firm and SEO activity. The project was about revamping the online existence of the brand with a fresh new website and work on improvement in sales via SEO."
+                            }
+                        ],
+                        "results": [
+                            {
+                                "qus": "What were the measurable outcomes from the project that demonstrate progress or success?",
+                                "ans": "The website turned out how I visualised it and elevated my brand's online existence. I absolutely loved the professional approach and to the point work of the team. I appreciate their detailed work at every step and the team has always been helpful & approachable."
+                            },
+                            {
+                                "qus": "Describe their project management. Did they deliver items on time? How did they respond to your needs?",
+                                "ans": "The work was delivered on time and deadlines were met very precisely. The working hours were pretty flexible as per my schedule."
+                            },
+                            {
+                                "qus": "What was your primary form of communication with e intelligence?",
+                                "ans": "Virtual Meeting Email or Messaging App"
+                            },
+                            {
+                                "qus": "What did you find most impressive or unique about this company?",
+                                "ans": "I am most impressed by the framework of the whole project. A systematic approach with a stepwise timeline was very helpful. The team members followed up regularly to get the work done and finished the project on time."
+                            },
+                            {
+                                "qus": "Are there any areas for improvement or something e intelligence could have done differently?",
+                                "ans": "I am overall happy & satisfied with EI."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "Web Design & SEO for IT Infrastructure Solutions Company",
+                    "reviewer_info": {
+                        "reviewer_name": "Rahil Patwa",
+                        "reviewer_position": "Director, Patwa Kinarivala Electronics Ltd",
+                        "location": "India",
+                        "company_size": "51-200 Employees",
+                        "review_type": "Online Review",
+                        "verified": true,
+                        "company_name": "Patwa Kinarivala Electronics Ltd"
+                    },
+                    "review_info": {
+                        "review_quote": "e intelligence went in-depth to understand our company and products.",
+                        "review_date": "April 21, 2023",
+                        "review_rating": {
+                            "overall_rating": "5.0",
+                            "rating_breakdown": {
+                                "Quality": "5.0",
+                                "Schedule": "5.0",
+                                "Cost": "5.0",
+                                "Willing to Refer": "5.0"
+                            }
+                        },
+                        "review_feedback_summary": "Thanks to e intelligence, the client's search engine ranking for targeted keywords improved significantly, leading to higher visibility and increased website traffic. They led smooth project collaboration through meetings, ensuring their high involvement and understanding of the requirements."
+                    },
+                    "project_info": {
+                        "Services": "Search Engine Optimization\nWeb Design\nWeb Development",
+                        "Project size": "Less than $10,000",
+                        "Project length": "Jan. 2019 - Mar. 2021",
+                        "project_summary": "e intelligence provided web design and SEO services for an IT infrastructure solutions company. The team helped create a visually appealing, user-friendly, and SEO-optimized website."
+                    },
+                    "detailed_review": {
+                        "background": [
+                            {
+                                "qus": "Please describe your company and position.",
+                                "ans": "I am the Director of Patwa Kinarivala Electronics Ltd"
+                            },
+                            {
+                                "qus": "Describe what your company does in a single sentence.",
+                                "ans": "We are providing Turnkey IT Infrastructure Solutions in India"
+                            }
+                        ],
+                        "challenge": [
+                            {
+                                "qus": "What specific goals or objectives did you hire e intelligence to accomplish?",
+                                "ans": "Website Development Better Reach to clients Better Visibility"
+                            }
+                        ],
+                        "solution": [
+                            {
+                                "qus": "How did you find e intelligence?",
+                                "ans": "Referral"
+                            },
+                            {
+                                "qus": "Why did you select e intelligence over others?",
+                                "ans": "Close to my geographic location Referred to me"
+                            },
+                            {
+                                "qus": "What was the size of e intelligence’s team?",
+                                "ans": "2-5 Employees"
+                            },
+                            {
+                                "qus": "Describe the scope of work in detail. Please include a summary of key deliverables.",
+                                "ans": "We had the pleasure of working with e intelligence on a web design and SEO project, and I couldn't be happier with the results. The website they created is visually appealing, user-friendly, and optimized for search engines. The clear website structure, fast page loading, mobile-friendliness, and optimized images and videos all contributed to a seamless UX. What stood out to me was e intelligence's attention to detail and commitment to delivering personalized solutions that met our specific business needs."
+                            }
+                        ],
+                        "results": [
+                            {
+                                "qus": "What were the measurable outcomes from the project that demonstrate progress or success?",
+                                "ans": "Working with e intelligence on our web design and search engine optimization project resulted in several measurable outcomes. Firstly, our search engine ranking for targeted keywords improved significantly, resulting in higher visibility and increased website traffic. We were able to measure this improvement by tracking our website's search engine ranking before and after the project."
+                            },
+                            {
+                                "qus": "Describe their project management. Did they deliver items on time? How did they respond to your needs?",
+                                "ans": "e intelligence started by defining the project scope and objectives in collaboration with us and assigned a project manager Ms Shabnam. This ensured that everyone involved understood what was required to complete the project successfully and on time"
+                            },
+                            {
+                                "qus": "What was your primary form of communication with e intelligence?",
+                                "ans": "In-Person Meeting"
+                            },
+                            {
+                                "qus": "What did you find most impressive or unique about this company?",
+                                "ans": "e intelligence went in-depth to understand our company and products during the web design and search engine optimization project. This demonstrates their commitment to delivering personalized solutions that are tailored to your specific business needs."
+                            },
+                            {
+                                "qus": "Are there any areas for improvement or something e intelligence could have done differently?",
+                                "ans": "No I don't see any areas of improvement they are Awesome"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "SEO Services for Software Dev Company",
+                    "reviewer_info": {
+                        "reviewer_name": "Hemant Jani",
+                        "reviewer_position": "CEO, Techovarya Solutions",
+                        "location": "India",
+                        "company_size": "11-50 Employees",
+                        "review_type": "Online Review",
+                        "verified": true,
+                        "company_name": "Techovarya Solutions"
+                    },
+                    "review_info": {
+                        "review_quote": "Their team was very responsive — they were always ready to listen and help.",
+                        "review_date": "April 21, 2023",
+                        "review_rating": {
+                            "overall_rating": "5.0",
+                            "rating_breakdown": {
+                                "Quality": "5.0",
+                                "Schedule": "4.5",
+                                "Cost": "5.0",
+                                "Willing to Refer": "4.5"
+                            }
+                        },
+                        "review_feedback_summary": "With e intelligence's help, the company's website ratings increased by 20% on Google; the site's loading speed and blog traffic also improved. The team fully understood the requirements, enabling them to provide quality and timely results. They were also accessible, responsive, and detail-oriented."
+                    },
+                    "project_info": {
+                        "Services": "Search Engine Optimization\nWeb Design",
+                        "Project size": "Confidential",
+                        "Project length": "January 2022",
+                        "project_summary": "e intelligence provided SEO services for a software development company. Their tasks included SEO audits, keyword research, on- and off-page optimization, and monthly performance reports."
+                    },
+                    "detailed_review": {
+                        "background": [
+                            {
+                                "qus": "Please describe your company and position.",
+                                "ans": "I am the CEO of Techovarya Solutions"
+                            },
+                            {
+                                "qus": "Describe what your company does in a single sentence.",
+                                "ans": "We are web and mobile application development company."
+                            }
+                        ],
+                        "challenge": [
+                            {
+                                "qus": "What specific goals or objectives did you hire e intelligence to accomplish?",
+                                "ans": "Website Seo friendly"
+                            }
+                        ],
+                        "solution": [
+                            {
+                                "qus": "How did you find e intelligence?",
+                                "ans": "Referral"
+                            },
+                            {
+                                "qus": "Why did you select e intelligence over others?",
+                                "ans": "Referred to me"
+                            },
+                            {
+                                "qus": "What was the size of e intelligence’s team?",
+                                "ans": "2-5 Employees"
+                            },
+                            {
+                                "qus": "Describe the scope of work in detail. Please include a summary of key deliverables.",
+                                "ans": "The project scope was for optimising on page of page SEO Key Deliveries included following The key deliverables of an SEO optimization project typically included:"
+                            }
+                        ],
+                        "results": [
+                            {
+                                "qus": "What were the measurable outcomes from the project that demonstrate progress or success?",
+                                "ans": "We got our website ratings up by 20% in google and similar for the mobile website version. Also improved our loading speed and blog traffic."
+                            },
+                            {
+                                "qus": "Describe their project management. Did they deliver items on time? How did they respond to your needs?",
+                                "ans": "They were very well available on our time. Their team was very responsive — they were always ready to listen and help."
+                            },
+                            {
+                                "qus": "What was your primary form of communication with e intelligence?",
+                                "ans": "Virtual Meeting Email Messaging App"
+                            },
+                            {
+                                "qus": "What did you find most impressive or unique about this company?",
+                                "ans": "The speed they responded and understanding the our requirements properly and creating good detailed reports."
+                            },
+                            {
+                                "qus": "Are there any areas for improvement or something e intelligence could have done differently?",
+                                "ans": "Content creation is something that can be improved but overall a good experience."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "Website Design & Development for Mono Carton Manufacturer",
+                    "reviewer_info": {
+                        "reviewer_name": "Anonymous",
+                        "reviewer_position": "Working Partner, Mono Carton Manufacturer",
+                        "location": "Vadodara, India",
+                        "company_size": "51-200 Employees",
+                        "review_type": "Online Review",
+                        "verified": true,
+                        "company_name": "Mono Carton Manufacturer"
+                    },
+                    "review_info": {
+                        "review_quote": "They took a lot of personal interest in ensuring our needs were met.",
+                        "review_date": "April 19, 2023",
+                        "review_rating": {
+                            "overall_rating": "5.0",
+                            "rating_breakdown": {
+                                "Quality": "4.5",
+                                "Schedule": "4.0",
+                                "Cost": "5.0",
+                                "Willing to Refer": "5.0"
+                            }
+                        },
+                        "review_feedback_summary": "e intelligence helped the client increase their site traffic and conversions. The vendor was very proactive, helpful, and responsive, enabling them to deliver the outputs on time. Moreover, the client was impressed with the vendor's work culture, innovative solutions, and quality services."
+                    },
+                    "project_info": {
+                        "Services": "Content Writing Services\nMarketing Strategy\nSearch Engine Optimization\nWeb Design\nWeb Development",
+                        "Project size": "Less than $10,000",
+                        "Project length": "Oct. 2022 - Feb. 2023",
+                        "project_summary": "e intelligence built a website for a mono carton manufacturer. They created and implemented the website design, produced engaging and SEO-friendly content, tested the site for bugs, and kept it updated."
+                    },
+                    "detailed_review": {
+                        "background": [
+                            {
+                                "qus": "Please describe your company and position.",
+                                "ans": "I am the Working Partner of (a/an) Other industries"
+                            },
+                            {
+                                "qus": "Describe what your company does in a single sentence.",
+                                "ans": "We are into manufacturing of Mono-cartons for leading pharmaceutical and FMCG companies."
+                            }
+                        ],
+                        "challenge": [
+                            {
+                                "qus": "What specific goals or objectives did you hire e intelligence to accomplish?",
+                                "ans": "Design our website and grow our business"
+                            }
+                        ],
+                        "solution": [
+                            {
+                                "qus": "How did you find e intelligence?",
+                                "ans": "Referral"
+                            },
+                            {
+                                "qus": "Why did you select e intelligence over others?",
+                                "ans": "Company values aligned"
+                            },
+                            {
+                                "qus": "What was the size of e intelligence’s team?",
+                                "ans": "2-5 Employees"
+                            },
+                            {
+                                "qus": "Describe the scope of work in detail. Please include a summary of key deliverables.",
+                                "ans": "The Scope of Work for e-intelligence was as per below:"
+                            }
+                        ],
+                        "results": [
+                            {
+                                "qus": "What were the measurable outcomes from the project that demonstrate progress or success?",
+                                "ans": "We saw an increase in website traffic and also increased client conversions"
+                            },
+                            {
+                                "qus": "Describe their project management. Did they deliver items on time? How did they respond to your needs?",
+                                "ans": "They delivered items on time and team was very pro-active, helpful and responsive in communication."
+                            },
+                            {
+                                "qus": "What was your primary form of communication with e intelligence?",
+                                "ans": "Email Messaging App"
+                            },
+                            {
+                                "qus": "What did you find most impressive or unique about this company?",
+                                "ans": "We are impressed by their work culture , innovative solutions and their service. They took a lot of personal interest in ensuring our needs were met."
+                            },
+                            {
+                                "qus": "Are there any areas for improvement or something e intelligence could have done differently?",
+                                "ans": "They were perfect."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "Web Dev & Marketing Strategy for Nootropic Research Company",
+                    "reviewer_info": {
+                        "reviewer_name": "John Burra",
+                        "reviewer_position": "Owner, Thought Matter Research LLC",
+                        "location": "Sleepy Hollow, New York",
+                        "company_size": "1-10 Employees",
+                        "review_type": "Online Review",
+                        "verified": true,
+                        "company_name": "Thought Matter Research LLC"
+                    },
+                    "review_info": {
+                        "review_quote": "The price-to-value proposition they provide is excellent.",
+                        "review_date": "April 10, 2023",
+                        "review_rating": {
+                            "overall_rating": "5.0",
+                            "rating_breakdown": {
+                                "Quality": "5.0",
+                                "Schedule": "4.5",
+                                "Cost": "5.0",
+                                "Willing to Refer": "5.0"
+                            }
+                        },
+                        "review_feedback_summary": "The e intelligence team has delivered everything on time and within budget. They've created a modern and user-friendly e-commerce website that aligns with the client's vision. The organized team accommodates the client's needs and is passionate about their projects."
+                    },
+                    "project_info": {
+                        "Services": "Advertising\nBranding\nContent Marketing\nConversion Optimization\nDigital Strategy\nE-Commerce Development\nEcommerce Marketing\nEmail Marketing\nMarket Research\nMarketing Strategy\nMedia Planning & Buying\nOther Digital Marketing\nOther Marketing\nProduct Marketing\nSearch Engine Optimization\nSocial Media Marketing\nVideo Marketing\nWeb Design\nWeb Development",
+                        "Project size": "Confidential",
+                        "Project length": "Sep. 2022 - Ongoing",
+                        "project_summary": "e intelligence has developed a website and marketing campaign strategy for a nootropic research company. They've also created a product launch strategy comprised of SEO, SMM, and website traffic initiatives."
+                    },
+                    "detailed_review": {
+                        "background": [
+                            {
+                                "qus": "Please describe your company and position.",
+                                "ans": "I am the owner of thought matter research llc"
+                            },
+                            {
+                                "qus": "Describe what your company does in a single sentence.",
+                                "ans": "We are a nootropic research company currently selling a nootropic stack called BrainRise."
+                            }
+                        ],
+                        "challenge": [
+                            {
+                                "qus": "What specific goals or objectives did you hire e intelligence to accomplish?",
+                                "ans": "Create modern and user friendly website come up with marketing campaign strategy create engaging ads and content"
+                            }
+                        ],
+                        "solution": [
+                            {
+                                "qus": "How did you find e intelligence?",
+                                "ans": "Online Search"
+                            },
+                            {
+                                "qus": "Why did you select e intelligence over others?",
+                                "ans": "Pricing first our budget, Good value for cost, Company values aligned"
+                            },
+                            {
+                                "qus": "Describe the scope of work in detail. Please include a summary of key deliverables.",
+                                "ans": "The first task was to create a custom, modern, and user friendly e-commerce website. They helped come up with a product launch strategy consisting of the website and bringing traffic, SEO, social media marketing and advertising, and overall brand recognition. They've delivered on everything thus far but we're still in the process of perfecting everything for the product launch but they have been on time and on budget for every step."
+                            }
+                        ],
+                        "results": [
+                            {
+                                "qus": "What were the measurable outcomes from the project that demonstrate progress or success?",
+                                "ans": "Completing the website completing advertisements marketing strategy"
+                            },
+                            {
+                                "qus": "Describe their project management. Did they deliver items on time? How did they respond to your needs?",
+                                "ans": "The company delivered everything on time and everyone I spoke to has been available 24/7 to answer questions or clarify something. They have a great time. My account specialist is Keith and he's been great with helping to achieve my vision for the website and the overall marketing/brand strategy as a whole. Their internal communication between team members like those working on the website, SEO, and content creation, is fantastic and very organized."
+                            },
+                            {
+                                "qus": "What was your primary form of communication with e intelligence?",
+                                "ans": "Virtual Meeting, Email or Messaging App"
+                            },
+                            {
+                                "qus": "What did you find most impressive or unique about this company?",
+                                "ans": "Their organization, detailed descriptions of the work they provide, deadlines, always communication and always respond to emails immediately. They are great with not only the technical work but also very creative as well. They put the customer and their needs first and do whatever they can do to accommodate. The price-to-value proposition they provide is excellent. I looked at lot of companies and they were the only ones doing such a high level of work with over charging you like so many companies in the same space do. Their honest and have real integrity. We work with mutual respect and are both excited for the future!"
+                            },
+                            {
+                                "qus": "Are there any areas for improvement or something e intelligence could have done differently?",
+                                "ans": "In the beginning, they could come off as \"rushing\" me, adding a bit of stress, but because they communicate so well we were able to fix that issue."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "Website Development for Human Rights Organization",
+                    "reviewer_info": {
+                        "reviewer_name": "Saajhi Duniya",
+                        "reviewer_position": "Executive Member, Saajhi Duniya",
+                        "location": "Lucknow, India",
+                        "company_size": "11-50 Employees",
+                        "review_type": "Online Review",
+                        "verified": true,
+                        "company_name": "Saajhi Duniya"
+                    },
+                    "review_info": {
+                        "review_quote": "Their proactive approach is impressive!",
+                        "review_date": "January 17, 2023",
+                        "review_rating": {
+                            "overall_rating": "5.0",
+                            "rating_breakdown": {
+                                "Quality": "5.0",
+                                "Schedule": "5.0",
+                                "Cost": "5.0",
+                                "Willing to Refer": "5.0"
+                            }
+                        },
+                        "review_feedback_summary": "The client described the overall experience as great. The vendor took the client's ideas and implemented them into an attractive website. The communication between the parties was also good throughout the entire process. The client was most impressed with the vendor's proactive approach."
+                    },
+                    "project_info": {
+                        "Services": "Web Development",
+                        "Project size": "Less than $10,000",
+                        "Project length": "January 2020",
+                        "project_summary": "e intelligence developed a website with an event management system for a human rights organization. The site was expected to have an attractive UI/UX design."
+                    },
+                    "detailed_review": {
+                        "background": [
+                            {
+                                "qus": "Please describe your company and your position there.",
+                                "ans": "Our organisation works for Human rights and gender equality. I work for Saajhi Duniya as Executive Member."
+                            }
+                        ],
+                        "challenge": [
+                            {
+                                "qus": "For what projects/services did your company hire e intelligence, and what were your goals?",
+                                "ans": "So, we were looking for a website to connect with the people in the world. Our expectations was to create a attractive UI/UX website with event management system."
+                            }
+                        ],
+                        "solution": [
+                            {
+                                "qus": "How did you select this vendor and what were the deciding factors?",
+                                "ans": "They have given us what we requested for."
+                            },
+                            {
+                                "qus": "Describe the scope of work in detail, including the project steps, key deliverables, and technologies used.",
+                                "ans": "I needed a simple website with event facility to get our NGO traffic. E intelligence took my ideas and was able to implement them into an attractive website. Their communication was top notch throughout the entire process. Any questions I had were answered within hours. Overall a great experience. Glad I went with E intelligence to build our website and get our company on the net!"
+                            },
+                            {
+                                "qus": "How many people from the vendor's team worked with you, and what were their positions?",
+                                "ans": "There were account manager, project manager and the developer."
+                            }
+                        ],
+                        "results": [
+                            {
+                                "qus": "Can you share any measurable outcomes of the project or general feedback about the deliverables?",
+                                "ans": "I needed a simple website with event facility to get our NGO traffic. E intelligence took my ideas and was able to implement them into an attractive website. Their communication was top notch throughout the entire process. Any questions I had were answered within hours."
+                            },
+                            {
+                                "qus": "Describe their project management style, including communication tools and timeliness.",
+                                "ans": "Every thing was cool, we used to connect on Whatsapp, calls and on email."
+                            },
+                            {
+                                "qus": "What did you find most impressive or unique about this company?",
+                                "ans": "Their proactive approach is impressive!"
+                            },
+                            {
+                                "qus": "Are there any areas for improvement or something they could have done differently?",
+                                "ans": "So far I don't have anything specific to mention as everything went well."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "SEO & PPC Services for Vacation Rental Company",
+                    "reviewer_info": {
+                        "reviewer_name": "Steven Brooks",
+                        "reviewer_position": "Owner, Channers on Norfolk",
+                        "location": "Norfolk Island",
+                        "company_size": "1-10 Employees",
+                        "review_type": "Online Review",
+                        "verified": true,
+                        "company_name": "Channers on Norfolk"
+                    },
+                    "review_info": {
+                        "review_quote": "Even though we were a very small revenue client for them, we were treated as one of their important clients.",
+                        "review_date": "September 21, 2022",
+                        "review_rating": {
+                            "overall_rating": "5.0",
+                            "rating_breakdown": {
+                                "Quality": "5.0",
+                                "Schedule": "5.0",
+                                "Cost": "5.0",
+                                "Willing to Refer": "5.0"
+                            }
+                        },
+                        "review_feedback_summary": "The client was pleased with the results of e intelligence's SEO & PPC efforts. They were impressed by the vendor's dedication, availability, and effective communication. Their team also lauded how the vendor set and reported their monthly goals, which helped them track their progress."
+                    },
+                    "project_info": {
+                        "Services": "Content Marketing\nPay Per Click\nSearch Engine Optimization\nSocial Media Marketing",
+                        "Project size": "Less than $10,000",
+                        "Project length": "Oct. 2020 - June 2022",
+                        "project_summary": "e intelligence provided SEO and PPC services to a vacation rental company. They added more keywords, worked on backlinks, managed the client's Google Ads and Facebook, and started a blog."
+                    },
+                    "detailed_review": {
+                        "background": [
+                            {
+                                "qus": "Please describe your company and your position there.",
+                                "ans": "We are a small accommodation property for Australian holiday makers on a very small island in the South Pacific. It is part of Australia and is steeped in early Australian history as well as a very beautiful island. We own and run our own self-contained apartment property."
+                            }
+                        ],
+                        "challenge": [
+                            {
+                                "qus": "For what projects/services did your company hire e intelligence, and what were your goals?",
+                                "ans": "As part of our recovery from Covid shut downs we needed to boost our SEO rankings and digital presence to make us more visible to the many travellers finally free to travel at least domestically again at the end of 2020 onwards. We had ceased our SEO spend during Covid."
+                            }
+                        ],
+                        "solution": [
+                            {
+                                "qus": "How did you select this vendor and what were the deciding factors?",
+                                "ans": "We had plenty of time to research and decided upon e-intelligence because of their own website rankings, look of their own website as well as suitable pricing."
+                            },
+                            {
+                                "qus": "Describe the scope of work in detail, including the project steps, key deliverables, and campaigns.",
+                                "ans": "This was not a complicated brief. We simply need to rank organically higher than previously, add more keywords, work on back links and anything else to assist with organic growth. They also assisted us with adwords and FB to help with the process. They also instigated a blog which we had not had in place prior to their engagement. Over time they achieved great results and certainly delivered."
+                            },
+                            {
+                                "qus": "How many people from the vendor's team worked with you, and what were their positions?",
+                                "ans": "We had contact with two employees. They were assigned to our job and were both excellent communicators and motivators. They, in turn, co-ordinated various teams in the company to achieve each milestone."
+                            }
+                        ],
+                        "results": [
+                            {
+                                "qus": "Can you share any measurable outcomes of the project or general feedback about the deliverables?",
+                                "ans": "We were very satisfied and thrilled with the results."
+                            },
+                            {
+                                "qus": "Describe their project management style, including communication tools and timeliness.",
+                                "ans": "The company is very focussed on setting goals each month, reporting on each of those goals and any other wins and are very good at tracking information. They were very communicative and always available, should we have needed their clarification or assistance."
+                            },
+                            {
+                                "qus": "What did you find most impressive or unique about this company?",
+                                "ans": "We were impressed with the dedication to our needs. Even though we were a very small revenue client for them, we were treated as one of their important clients."
+                            },
+                            {
+                                "qus": "Are there any areas for improvement or something they could have done differently?",
+                                "ans": "The only area where we found improvement could be made was in the blog writing. It was completley understandable as English/conversaton was not their first language. It was a very small issue and we were able to edit these before they were published to make them fit more to our customer base style."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "Web Design & Development for Legal Services Firm",
+                    "reviewer_info": {
+                        "reviewer_name": "Chip Cooper",
+                        "reviewer_position": "E-Commerce Attorney, Of Counsel, Jones & Haley, P.C",
+                        "location": "Atlanta, Georgia",
+                        "company_size": "1-10 Employees",
+                        "review_type": "Online Review",
+                        "verified": true,
+                        "company_name": "Of Counsel, Jones & Haley, P.C"
+                    },
+                    "review_info": {
+                        "review_quote": "I was impressed with how well and efficiently the team managed the entire project.",
+                        "review_date": "September 1, 2022",
+                        "review_rating": {
+                            "overall_rating": "5.0",
+                            "rating_breakdown": {
+                                "Quality": "5.0",
+                                "Schedule": "5.0",
+                                "Cost": "5.0",
+                                "Willing to Refer": "5.0"
+                            }
+                        },
+                        "review_feedback_summary": "e intelligence delivered a responsive, well-designed custom site that matched the client's needs and boosted their business. Organized and efficient, the team exceeded expectations with their great project management and on-time, on-budget delivery. They were professional and supportive throughout."
+                    },
+                    "project_info": {
+                        "Services": "Web Design\nWeb Development",
+                        "Project size": "Less than $10,000",
+                        "Project length": "Jan. - May 2022",
+                        "project_summary": "e intelligence built a website for a legal services firm. They designed and developed a website that featured online contact forms and several calls to action."
+                    },
+                    "detailed_review": {
+                        "background": [
+                            {
+                                "qus": "Please describe your company and your position there.",
+                                "ans": "I'm an ecommerce attorney. I represent clients primarily in the areas of (i) legal documents for ecommerce websites, portals and marketplaces, and (ii) online marketing compliance."
+                            }
+                        ],
+                        "challenge": [
+                            {
+                                "qus": "For what projects/services did your company hire e intelligence, and what were your goals?",
+                                "ans": "I am Of Counsel to a law firm that represents corporate clients; however, the main law firm did not present my services to the level of specification I needed. My challenges: I needed a separate website that addressed the specific services that I provide to ecommerce clients. My challenges: the website needed to appeal to ecommerce companies and entrepreneurs. I engaged e-intelligence for this project."
+                            }
+                        ],
+                        "solution": [
+                            {
+                                "qus": "How did you select this vendor and what were the deciding factors?",
+                                "ans": "I searched for website developers online and found 3 that appeared to be able to offer what I wanted. I was fortunate to have a discussion with the CEO of e-intelligence. He really impressed me with how e-intelligence works closely with their clients and generally regarding pricing, services, and their general approach, and that's what convinced me to engage e-intelligence. It turned out to be a very good decision for me."
+                            },
+                            {
+                                "qus": "Describe the scope of work in detail, including the project steps, key deliverables, and technologies used.",
+                                "ans": "First, we had a kick-off meeting with the Project Coordinator. Based on a discussion of my goals and objectives, he introduced me to the Project Manager who was a great fit for my project. After several discussions with the Project Manager, their team designed and developed the new website that incorporated among other things several calls to action (Book a Call) and online contact forms in strategic places."
+                            },
+                            {
+                                "qus": "How many people from the vendor's team worked with you, and what were their positions?",
+                                "ans": "I don’t know how many team members were involved with my project. Most of my discussions were with the Project Manager who introduced me to specific team members as needed for specific elements of the project. Each of them was very professional, prompt, and helpful. It was very easy and a pleasure to work with the team members."
+                            }
+                        ],
+                        "results": [
+                            {
+                                "qus": "Can you share any measurable outcomes of the project or general feedback about the deliverables?",
+                                "ans": "The website is precisely what I wanted. E-intelligence didn’t just produce a template website for me. The site loads very quickly even for mobile users. Several clients have stated that they were impressed with the design. I’m very happy with the result. My law practice has increased substantially as a result."
+                            },
+                            {
+                                "qus": "Describe their project management style, including communication tools and timeliness.",
+                                "ans": "We had Zoom calls on an as-needed basis with the Project Manager and specific team members for specific elements of the project as needed. At every step of the project the Project Manager advised of the critical path for completion and next steps, particularly for input from me for content for specific elements. Their management style was very organized, prompt, and on time with the critical path. Overall, the project was very professionally and timely managed. Overall, the entire process was smooth and very-well done. It actually exceeded my expectations."
+                            },
+                            {
+                                "qus": "What did you find most impressive or unique about this company?",
+                                "ans": "I was impressed with how well and efficiently the team managed the entire project. They really knew what they were doing and worked as an efficient team. They were responsive and supporting with my questions and concerns I had during the project. They really cared about my project."
+                            },
+                            {
+                                "qus": "Are there any areas for improvement or something they could have done differently?",
+                                "ans": "I really can't think of any constructive criticism. I got precisely what I wanted, on-time and on-budget. I'm very happy with the result and the process. I highly recommend e-intelligence."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "PPC, SEO & SMM Campaigns for Packaging Company",
+                    "reviewer_info": {
+                        "reviewer_name": "Ankur Sinha",
+                        "reviewer_position": "Marketing Manager, Ecotact",
+                        "location": "Delhi, India",
+                        "company_size": "11-50 Employees",
+                        "review_type": "Online Review",
+                        "verified": true,
+                        "company_name": "Ecotact"
+                    },
+                    "review_info": {
+                        "review_quote": "Our workflow is very effective.",
+                        "review_date": "August 27, 2022",
+                        "review_rating": {
+                            "overall_rating": "5.0",
+                            "rating_breakdown": {
+                                "Quality": "5.0",
+                                "Schedule": "5.0",
+                                "Cost": "4.5",
+                                "Willing to Refer": "5.0"
+                            }
+                        },
+                        "review_feedback_summary": "e intelligence has steadily improved the client's keyword rankings and increased their transactions. Moreover, they've constructed the right mix of SEO and SMM strategies that yield positive results. Their data-driven approach and adherence to timelines have improved the client's digital presence."
+                    },
+                    "project_info": {
+                        "Services": "Other Digital Marketing\nSearch Engine Optimization\nSocial Media Marketing",
+                        "Project size": "Less than $10,000",
+                        "Project length": "Aug. 2021 - Ongoing",
+                        "project_summary": "A packaging company has hired e intelligence for SEO, SMM, and paid marketing services. The client wanted to enhance their website's performance by improving keywords rankings and incorporating SEO strategies."
+                    },
+                    "detailed_review": {
+                        "background": [
+                            {
+                                "qus": "Please describe your company and your position there.",
+                                "ans": "Ecotact is a hermetic packaging solution provider for green coffee, cacao and other food grains. Our business is spread across 45+ countries. Our headquarter is based out of Delhi. For details, please visit our websitewww.ecotactbags.com. I work here as the Marketing Manager."
+                            }
+                        ],
+                        "challenge": [
+                            {
+                                "qus": "For what projects/services did your company hire e intelligence, and what were your goals?",
+                                "ans": "We hired e-intelligence for SEO and online paid marketing services to enhance website performance by improving ranking for the targeted keywords and incorporating other online and offline SEO strategies. Also, enhancing conversion and traffic through paid SMM campaigns, including SMA and PPC. The key objectives include brand consideration, lead generation, and increasing online sales."
+                            }
+                        ],
+                        "solution": [
+                            {
+                                "qus": "How did you select this vendor and what were the deciding factors?",
+                                "ans": "Referral"
+                            },
+                            {
+                                "qus": "Describe the scope of work in detail, including the project steps, key deliverables, and marking tools used.",
+                                "ans": "E Intelligence takes care of our paid marketing and Search Engine Optimisation through campaigns spread across multiple locations like the USA, Canada, Africa, North America, and Europe. Marketing tools used SEO, PPC, SMA, Analytics"
+                            },
+                            {
+                                "qus": "How many resources from the vendor's team worked with you, and what were their positions?",
+                                "ans": "3 resources. Account Manager, Business head, and SEO executive."
+                            }
+                        ],
+                        "results": [
+                            {
+                                "qus": "Can you share any measurable outcomes of the project or general feedback about the deliverables?",
+                                "ans": "Since SEO takes its own sweet time, e-intelligence has constantly been able to improve the ranking for our targeted keywords. They have also been able to increase our e-commerce transactions with the right mix of SEO & SMM strategy. Broadly speaking e intelligence, through their campaigns has helped in improving the overall online marketing performance"
+                            },
+                            {
+                                "qus": "How effective was the workflow between your team and theirs?",
+                                "ans": "Our workflow is very effective."
+                            },
+                            {
+                                "qus": "What did you find most impressive or unique about this company?",
+                                "ans": "Data-driven approach and adherence to timeline."
+                            },
+                            {
+                                "qus": "Are there any areas for improvement or something they could have done differently?",
+                                "ans": "No, we are satisfied with their services so far."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "Web Dev for Travel-Tech Startup",
+                    "reviewer_info": {
+                        "reviewer_name": "Vishal Kejariwal",
+                        "reviewer_position": "Co-Founder, Taxido",
+                        "location": "Mumbai, India",
+                        "company_size": "1-10 Employees",
+                        "review_type": "Online Review",
+                        "verified": true,
+                        "company_name": "Taxido"
+                    },
+                    "review_info": {
+                        "review_quote": "The involvement of management in every project is what sets their team apart from most other tech companies.",
+                        "review_date": "June 15, 2020",
+                        "review_rating": {
+                            "overall_rating": "5.0",
+                            "rating_breakdown": {
+                                "Quality": "4.5",
+                                "Schedule": "4.5",
+                                "Cost": "5.0",
+                                "Willing to Refer": "5.0"
+                            }
+                        },
+                        "review_feedback_summary": "The vendor delivered an exceptional product in a highly cost-efficient manner. They're a flexible, accommodating team that's invested in ensuring all stakeholders feel aligned on project goals. The specialists are open to feedback and can adjust tactics quickly."
+                    },
+                    "project_info": {
+                        "Services": "Web Development",
+                        "Project size": "$10,000 to $49,999",
+                        "Project length": "Apr. 2016 - June 2019",
+                        "project_summary": "e-intelligence offered end-to-end website development along with iOS and Android development. They've supported SEO strategy and aspects of social media strategy."
+                    },
+                    "detailed_review": {
+                        "background": [
+                            {
+                                "qus": "Please describe your company and your position there.",
+                                "ans": "Taxidio is an online travel platform that looks into various aspects of itinerary planning and booking. I am the Co-founder CEO for Taxidio."
+                            }
+                        ],
+                        "challenge": [
+                            {
+                                "qus": "For what projects/services did your company hire e-intelligence?",
+                                "ans": "We hired e-intelligence to develop our website and apps. The company also helped us develop our SEO strategy and also look at aspects of social media."
+                            },
+                            {
+                                "qus": "What were your goals for this project?",
+                                "ans": "Since it was a greenfield project, the goal was to develop a user-friendly and technologically advanced product."
+                            }
+                        ],
+                        "solution": [
+                            {
+                                "qus": "How did you select this vendor?",
+                                "ans": "My partner looked at various web development agencies on Linkedin and other platforms and then reached out to them with the first set of requirements. We connected with them and thereafter went ahead with the project."
+                            },
+                            {
+                                "qus": "Describe the project and the services they provided in detail.",
+                                "ans": "EI provided end to end web development services which included choosing the right platform to develop the product. They also did a thorough research of the Industry for the required SEO and social media strategy."
+                            },
+                            {
+                                "qus": "What was the team composition?",
+                                "ans": "Including a project manager, the team had various developers for different platforms such as web, ios and android. They also had a design team to help us develop a user friendly product."
+                            }
+                        ],
+                        "results": [
+                            {
+                                "qus": "Can you share any information that demonstrates the impact that this project has had on your business?",
+                                "ans": "Pricing is a key factor for most startups. EI gave us a package for development which I am confident would be 1/3rd the price of any other organisation. More importantly, along with the pricing, the team was highly flexible in accommodation our requests and ensuring they delivered a world class product."
+                            },
+                            {
+                                "qus": "How was project management arranged and how effective was it?",
+                                "ans": "Weekly review meeting with the project team and monthly review meeting with the management made sure that the goals of every individual were aligned."
+                            },
+                            {
+                                "qus": "What did you find most impressive about this company?",
+                                "ans": "The involvement of management in every project is what sets their team apart from most other tech companies. They are open to feedback and improvise whenever required."
+                            },
+                            {
+                                "qus": "Are there any areas for improvement?",
+                                "ans": "Not that I can think of. We had a fantastic relationship with them."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "SEO & Website Dev for Law of Attraction Coaching Firm",
+                    "reviewer_info": {
+                        "reviewer_name": "Mohit Tahiliani",
+                        "reviewer_position": "Founder, Mind Body Soul",
+                        "location": "Vadodara, India",
+                        "company_size": "1-10 Employees",
+                        "review_type": "Online Review",
+                        "verified": true,
+                        "company_name": "Mind Body Soul"
+                    },
+                    "review_info": {
+                        "review_quote": "They had a very good culture, and their communication was fantastic.",
+                        "review_date": "May 13, 2024",
+                        "review_rating": {
+                            "overall_rating": "5.0",
+                            "rating_breakdown": {
+                                "Quality": "5.0",
+                                "Schedule": "5.0",
+                                "Cost": "5.0",
+                                "Willing to Refer": "4.5"
+                            }
+                        },
+                        "review_feedback_summary": "e intelligence's SEO efforts helped the client increase their online customers, while the website they built ranked higher on Google. Moreover, the team managed the project well, enabling them to deliver the website within a month. They also demonstrated good culture and excellent communication."
+                    },
+                    "project_info": {
+                        "Services": "Search Engine Optimization\nWeb Development",
+                        "Project size": "Less than $10,000",
+                        "Project length": "January 2018",
+                        "project_summary": "e intelligence developed a website for a law of attraction coaching firm. The team also implemented SEO improvements to the website."
+                    },
+                    "detailed_review": {
+                        "background": [
+                            {
+                                "qus": "Please describe your company and position.",
+                                "ans": "I am the Founder of Mind Body Soul"
+                            },
+                            {
+                                "qus": "Describe what your company does in a single sentence.",
+                                "ans": "We help people live Live a Happy & Joyful Life."
+                            }
+                        ],
+                        "challenge": [
+                            {
+                                "qus": "What specific goals or objectives did you hire e intelligence to accomplish?",
+                                "ans": "Create our Website SEO of our Website"
+                            }
+                        ],
+                        "solution": [
+                            {
+                                "qus": "How did you find e intelligence?",
+                                "ans": "Referral"
+                            },
+                            {
+                                "qus": "Why did you select e intelligence over others?",
+                                "ans": "Close to my geographic location Great culture fit Company values aligned"
+                            },
+                            {
+                                "qus": "How many teammates from e intelligence were assigned to this project?",
+                                "ans": "1 Employee"
+                            },
+                            {
+                                "qus": "Describe the scope of work in detail. Please include a summary of key deliverables.",
+                                "ans": "We wanted to have a Good Website for our Organization. So we took help of E-Intelligence to do the same ."
+                            }
+                        ],
+                        "results": [
+                            {
+                                "qus": "What were the measurable outcomes from the project that demonstrate progress or success?",
+                                "ans": "Our Website was built and Ready in 1 Month. SEO was going on for 3 months which helped us get many Customers online. Our Website page was ranked higher on Google which was amazing."
+                            },
+                            {
+                                "qus": "Describe their project management. Did they deliver items on time? How did they respond to your needs?",
+                                "ans": "Yes, they managed the Project well. Everything was delivered on time."
+                            },
+                            {
+                                "qus": "What was your primary form of communication with e intelligence?",
+                                "ans": "In-Person Meeting Email or Messaging App"
+                            },
+                            {
+                                "qus": "What did you find most impressive or unique about this company?",
+                                "ans": "They had a very good culture, and their communication was fantastic. They try to understand what their customers want."
+                            },
+                            {
+                                "qus": "Are there any areas for improvement or something e intelligence could have done differently?",
+                                "ans": "Not that I can share.."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "Web Dev & SEO for IT Staffing Company",
+                    "reviewer_info": {
+                        "reviewer_name": "Kumar Iyer",
+                        "reviewer_position": "Managing Partner, K9 Technology",
+                        "location": "India",
+                        "company_size": "11-50 Employees",
+                        "review_type": "Online Review",
+                        "verified": true,
+                        "company_name": "K9 Technology"
+                    },
+                    "review_info": {
+                        "review_quote": "What stood out most about e intelligence was their exceptional ability to deliver high-quality work.",
+                        "review_date": "March 9, 2024",
+                        "review_rating": {
+                            "overall_rating": "5.0",
+                            "rating_breakdown": {
+                                "Quality": "5.0",
+                                "Schedule": "5.0",
+                                "Cost": "5.0",
+                                "Willing to Refer": "5.0"
+                            }
+                        },
+                        "review_feedback_summary": "e intelligence’s efforts improved website traffic, search engine rankings, and social media engagement metrics. The team responded quickly to issues and ensured smooth communication via in-person and virtual meetings. They delivered on time and within budget."
+                    },
+                    "project_info": {
+                        "Services": "Other Digital Marketing\nSearch Engine Optimization\nWeb Development",
+                        "Project size": "Less than $10,000",
+                        "Project length": "Jan. 2017 - Jan. 2019",
+                        "project_summary": "e intelligence designed and developed a custom website for an IT staffing and custom software development company. They also provided SEO, social media marketing, and advertising initiatives."
+                    },
+                    "detailed_review": {
+                        "background": [
+                            {
+                                "qus": "Please describe your company and position.",
+                                "ans": "I am the Managing Partner of K9 Technology"
+                            },
+                            {
+                                "qus": "Describe what your company does in a single sentence.",
+                                "ans": "IT Staffing and Custom software development"
+                            }
+                        ],
+                        "challenge": [
+                            {
+                                "qus": "What specific goals or objectives did you hire e intelligence to accomplish?",
+                                "ans": "web designing digital marketing"
+                            }
+                        ],
+                        "solution": [
+                            {
+                                "qus": "How did you find e intelligence?",
+                                "ans": "Referral"
+                            },
+                            {
+                                "qus": "Why did you select e intelligence over others?",
+                                "ans": "High ratings Good value for cost Referred to me Company values aligned"
+                            },
+                            {
+                                "qus": "How many teammates from e intelligence were assigned to this project?",
+                                "ans": "2-5 Employees"
+                            },
+                            {
+                                "qus": "Describe the scope of work in detail. Please include a summary of key deliverables.",
+                                "ans": "The project scope was the development of a custom, contemporary website. Collaboratively, we devised an engaging design and formulated a comprehensive strategy encompassing traffic generation, search engine optimization (SEO), social media marketing, advertising initiatives, and overarching our service awareness. Their team consistently adhered to established timelines and financial parameters, successfully delivering each phase of the project punctually and within budget constraints."
+                            }
+                        ],
+                        "results": [
+                            {
+                                "qus": "What were the measurable outcomes from the project that demonstrate progress or success?",
+                                "ans": "The project yielded measurable outcomes demonstrating significant progress and success, including increased website traffic, enhanced search engine rankings, increased social media engagement metrics, and favorable returns on advertising investments."
+                            },
+                            {
+                                "qus": "Describe their project management. Did they deliver items on time? How did they respond to your needs?",
+                                "ans": "Their project management was excellent. They consistently delivered items on time as per the agreed schedules. Whenever we had questions or needs, they were quick to respond and address them, ensuring smooth communication and resolving any issues efficiently."
+                            },
+                            {
+                                "qus": "What was your primary form of communication with e intelligence?",
+                                "ans": "In-Person Meeting Virtual Meeting"
+                            },
+                            {
+                                "qus": "What did you find most impressive or unique about this company?",
+                                "ans": "What stood out most about e intelligence was their exceptional ability to deliver high-quality work while consistently adhering to deadlines and budgets. Their proactive communication and responsiveness to our needs further underscored their commitment to client satisfaction."
+                            },
+                            {
+                                "qus": "Are there any areas for improvement or something e intelligence could have done differently?",
+                                "ans": "They provided more updates on milestones than necessary, which, although beneficial to some extent, could be streamlined or limited. However, after discussing this concern, they satisfactorily addressed it, ensuring a more balanced approach moving forward."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "SEO & PPC for Cleaning Services Co",
+                    "reviewer_info": {
+                        "reviewer_name": "Lisa Macqueen",
+                        "reviewer_position": "CEO, Cleancorp",
+                        "location": "Sydney, Australia",
+                        "company_size": "51-200 Employees",
+                        "review_type": "Online Review",
+                        "verified": true,
+                        "company_name": "Cleancorp"
+                    },
+                    "review_info": {
+                        "review_quote": "They do a really good job of keeping in touch and keeping me in the loop.",
+                        "review_date": "February 23, 2024",
+                        "review_rating": {
+                            "overall_rating": "5.0",
+                            "rating_breakdown": {
+                                "Quality": "5.0",
+                                "Schedule": "5.0",
+                                "Cost": "5.0",
+                                "Willing to Refer": "5.0"
+                            }
+                        },
+                        "review_feedback_summary": "e intelligence's work helped the client reach the top of online searches. e intelligence's team was organized, knowledgeable, and communicative via email and Nightwatch. The client praised the team's proactiveness and availability for communication and to keep them in the loop throughout the process."
+                    },
+                    "project_info": {
+                        "Services": "Search Engine Optimization",
+                        "Project size": "$10,000 to $49,999",
+                        "Project length": "June - Nov. 2022",
+                        "project_summary": "A cleaning services company hired e intelligence for SEO and PPC. The team set up SEO and Google Ads PPC campaigns, which included keyword research."
+                    },
+                    "detailed_review": {
+                        "background": [
+                            {
+                                "qus": "Please describe your company and position.",
+                                "ans": "I am the CEO of Cleancorp"
+                            },
+                            {
+                                "qus": "Describe what your company does in a single sentence.",
+                                "ans": "We are a cleaning services provider."
+                            }
+                        ],
+                        "challenge": [
+                            {
+                                "qus": "What specific goals or objectives did you hire e intelligence to accomplish?",
+                                "ans": "There were two opportunities. One was that we are focusing on getting more clean contracts and we are also trying to dig into the disinfection service for the time being."
+                            }
+                        ],
+                        "solution": [
+                            {
+                                "qus": "How did you find e intelligence?",
+                                "ans": "Online Search Clutch Site"
+                            },
+                            {
+                                "qus": "Why did you select e intelligence over others?",
+                                "ans": "Pricing fit our budget Good value for cost Company values aligned"
+                            },
+                            {
+                                "qus": "How many teammates from e intelligence were assigned to this project?",
+                                "ans": "2-5 Employees"
+                            },
+                            {
+                                "qus": "Describe the scope of work in detail. Please include a summary of key deliverables.",
+                                "ans": "First, e-intelligence quickly set up a campaign to get us going. They have created an SEO campaign, primarily with keywords, half of that is focused on disinfection, and half of that is focused on janitorial work. In addition to making some content adjustments, they performed both on-site and off-site SEO for the cleaning department. They went through and used Google to run some reports, identifying the areas with extremely high usage. The keywords were then developed around that."
+                            }
+                        ],
+                        "results": [
+                            {
+                                "qus": "What were the measurable outcomes from the project that demonstrate progress or success?",
+                                "ans": "In three weeks, the team managed to move us up to the top spot for disinfection. For us, this meant that the two months during which the pandemic's first wave peaked were also the most prosperous of our lives. That had a direct bearing on the SEO work they completed."
+                            },
+                            {
+                                "qus": "Describe their project management. Did they deliver items on time? How did they respond to your needs?",
+                                "ans": "It has been good and organized. e intelligence has been good with reporting, and they use a platform called Nightwatch, which I really like because it gives me a more granular view of how our site is performing through a daily report. They also do weekly reports and I believe there is also a monthly report. I haven’t had any trouble getting through to Asad if I need to speak with him directly, which has been really helpful at certain times when there have been issues. We use email to communicate.I tried to ask if they could help us with Google Ads, but they only focus on SEO, which I think is a benefit. A lot of times, people try to branch out too much in this space, so it’s been valuable to only do SEO."
+                            },
+                            {
+                                "qus": "What was your primary form of communication with e intelligence?",
+                                "ans": "Virtual Meeting Email or Messaging App"
+                            },
+                            {
+                                "qus": "What did you find most impressive or unique about this company?",
+                                "ans": "Their communication has been awesome. They do a really good job of keeping in touch and keeping me in the loop, and they’re active when I have requests. Additionally, when the pandemic hit, we needed help because we lost one of our largest clients and unfortunately that was a big percentage of our revenue. We had to cut down on some things and part of that was SEO. Asad just jumped right in and said we would cut down where we needed to and come back up when we needed to.A lot of times people try to get you into contracts and agreements and they’re just not really friendly, so it was refreshing to see this with Asad. The experience has been really good compared to other ones that I had in the past. This is probably the fourth or fifth SEO company we have dealt with, and they seem to be more organized, professional, and proactive than any of the others."
+                            },
+                            {
+                                "qus": "Are there any areas for improvement or something e intelligence could have done differently?",
+                                "ans": "No, I can’t really think of anything off the top of my head. They just got on Nightwatch, so they are trying to improve. If anything, they could be more granular with where the backlinks are and exact about what they’re working on."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "Graphic Design Services for Laboratory Design Firm",
+                    "reviewer_info": {
+                        "reviewer_name": "Ugesh Singh",
+                        "reviewer_position": "Head of Human Resource, GDWaldner India Pvt Ltd.",
+                        "location": "India",
+                        "company_size": "51-200 Employees",
+                        "review_type": "Online Review",
+                        "verified": true,
+                        "company_name": "GDWaldner India Pvt Ltd."
+                    },
+                    "review_info": {
+                        "review_quote": "Their work was impressive.",
+                        "review_date": "September 29, 2022",
+                        "review_rating": {
+                            "overall_rating": "4.5",
+                            "rating_breakdown": {
+                                "Quality": "4.5",
+                                "Schedule": "4.5",
+                                "Cost": "4.0",
+                                "Willing to Refer": "4.0"
+                            }
+                        },
+                        "review_feedback_summary": "e intelligence successfully delivered the creative for the job advertisements. Their outputs helped the client effectively reach out to candidates and receive applicants. Moreover, their team showcased excellent coordination, ensuring an efficient workflow."
+                    },
+                    "project_info": {
+                        "Services": "Other Design",
+                        "Project size": "Confidential",
+                        "Project length": "June 2022",
+                        "project_summary": "e intelligence provided graphic design services to a laboratory design firm. They produced the client's creative for their job advertisements on social media platforms."
+                    },
+                    "detailed_review": {
+                        "background": [
+                            {
+                                "qus": "Please describe your company and your position there.",
+                                "ans": "GD Waldner, we believe in building lifelong partnerships based on mutual trust. We are unconditionally invested in your success, and that is what drives us to deliver the safest, most energy-efficient, and technologically superior lab spaces so you can focus on building the future. Backed by state-of-the-art engineering and technology from Germany, we leverage decades of international and local project experience across a wide gamut of industries to design and build world-class lab spaces that are tailored to your specific needs."
+                            }
+                        ],
+                        "challenge": [
+                            {
+                                "qus": "For what projects/services did your company hire e intelligence?",
+                                "ans": "We hired them to help us make creatives for the Job advertisement on social media platforms"
+                            }
+                        ],
+                        "solution": [
+                            {
+                                "qus": "How did you select this vendor?",
+                                "ans": "Reference."
+                            },
+                            {
+                                "qus": "Describe the scope of their work in detail.",
+                                "ans": "We hired them to help us make creatives for the Job advertisement on social media platforms"
+                            },
+                            {
+                                "qus": "What was the team composition?",
+                                "ans": "We were in touch with a Key Accounts Manger who helped us in the creative and the service provided was also good."
+                            }
+                        ],
+                        "results": [
+                            {
+                                "qus": "Can you share any outcomes from the project that demonstrate progress or success?",
+                                "ans": "We had a good reach to the candidates and also received the applicants."
+                            },
+                            {
+                                "qus": "How effective was the workflow between your team and theirs?",
+                                "ans": "The coordination was good & up to the mark."
+                            },
+                            {
+                                "qus": "What did you find most impressive about this company?",
+                                "ans": "Their work was impressive."
+                            },
+                            {
+                                "qus": "Is there any area for improvement or anything that could have been done differently?",
+                                "ans": "There is always area of improvement for the best of the best."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "Digital Marketing Services for Real Estate Firm",
+                    "reviewer_info": {
+                        "reviewer_name": "Vatsal Vala",
+                        "reviewer_position": "Digital Marketing Executive, Darshanam Group",
+                        "location": "Vadodara, India",
+                        "company_size": "201-500 Employees",
+                        "review_type": "Online Review",
+                        "verified": true,
+                        "company_name": "Darshanam Group"
+                    },
+                    "review_info": {
+                        "review_quote": "They always deliver on time.",
+                        "review_date": "September 17, 2022",
+                        "review_rating": {
+                            "overall_rating": "4.5",
+                            "rating_breakdown": {
+                                "Quality": "4.5",
+                                "Schedule": "5.0",
+                                "Cost": "4.0",
+                                "Willing to Refer": "4.0"
+                            }
+                        },
+                        "review_feedback_summary": "So far, the client is pleased with e intelligence's services. The team follows a seamless workflow and delivers quality outputs in a timely manner. They also communicate regularly via email. Overall, customers can expect a creative and professional partner who strongly adheres to deadlines."
+                    },
+                    "project_info": {
+                        "Services": "Other Digital Marketing\nSearch Engine Optimization\nSocial Media Marketing",
+                        "Project size": "Less than $10,000",
+                        "Project length": "Jan. 2018 - Ongoing",
+                        "project_summary": "e intelligence provides ongoing digital marketing services for a real estate company. They're mainly in charge of designing posts and ads for the client's social media channels. They also provide SEO support."
+                    },
+                    "detailed_review": {
+                        "background": [
+                            {
+                                "qus": "Please describe your company and your position there.",
+                                "ans": "Darshanam Group is the one of the real estate company in Vadodara. Leading provider of world class innovative homes and lifestyle developments in Vadodara. My name is Vatsal and my position is Digital Marketing Executive in company."
+                            }
+                        ],
+                        "challenge": [
+                            {
+                                "qus": "For what projects/services did your company hire e intelligence, and what were your goals?",
+                                "ans": "e-intelligence deliver social media creatives from 2018 for Darshanam Group. We have more than 30 ongoing projects across Vadodara, Gujarat, India. Currently we have assigned DARSHANAM CELESTIAL social media work to e-intelligence This project have higher ticket size compare to another projects."
+                            }
+                        ],
+                        "solution": [
+                            {
+                                "qus": "How did you select this vendor and what were the deciding factors?",
+                                "ans": "e-intelligence is MNC company. I am communicate with this company from 2018. and this company deliver designs on time to client."
+                            },
+                            {
+                                "qus": "Describe the scope of work in detail, including the project steps, key deliverables, and marking tools used.",
+                                "ans": "Darshanam Group have 24.9k likes in Facebook page but I can reach Organic posts more than 100k+ with help of creative design delivered by e-intelligence. They deliver designs with SEO content to us. Creative design also impact in Social Media Paid / Organic marketing"
+                            },
+                            {
+                                "qus": "How many resources from the vendor's team worked with you, and what were their positions?",
+                                "ans": "We worked with a client account Manager and account manager."
+                            }
+                        ],
+                        "results": [
+                            {
+                                "qus": "Can you share any measurable outcomes of the project or general feedback about the deliverables?",
+                                "ans": "This company deliver designs on time to client."
+                            },
+                            {
+                                "qus": "How effective was the workflow between your team and theirs?",
+                                "ans": "It was too smooth a workflow. Just drop one mail for doubts and team nicely understand my doubts for changes in designs."
+                            },
+                            {
+                                "qus": "What did you find most impressive or unique about this company?",
+                                "ans": "They always deliver on time. No reminder is needed."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "UI/UX Design for Marketing & Advertising Company",
+                    "reviewer_info": {
+                        "reviewer_name": "Anonymous",
+                        "reviewer_position": "Head of Operations & Sales, Marketing & Advertising Company",
+                        "location": "New York City, New York",
+                        "company_size": "1-10 Employees",
+                        "review_type": "Online Review",
+                        "verified": false,
+                        "company_name": "Marketing & Advertising Company"
+                    },
+                    "review_info": {
+                        "review_quote": "They were strategic and knowledgeable.",
+                        "review_date": "September 14, 2022",
+                        "review_rating": {
+                            "overall_rating": "4.5",
+                            "rating_breakdown": {
+                                "Quality": "4.5",
+                                "Schedule": "5.0",
+                                "Cost": "5.0",
+                                "Willing to Refer": "4.5"
+                            }
+                        },
+                        "review_feedback_summary": "e intelligence successfully made the company's website bug-free, increased monthly visitors and users, and integrated Salesforce. They effectively held weekly meetings, responsively accommodating all requests. Moreover, their strategies, knowledge, and fair service charge were remarkable."
+                    },
+                    "project_info": {
+                        "Services": "UX/UI Design",
+                        "Project size": "$10,000 to $49,999",
+                        "Project length": "June 2021 - Feb. 2022",
+                        "project_summary": "A marketing and advertising company engaged with e intelligence for UI/UX design. They provided wireframes and page flow, integrated Salesforce, expanded the designs, analyzed data, and performed optimizations."
+                    },
+                    "detailed_review": {
+                        "background": [
+                            {
+                                "qus": "Please describe your company and your position there.",
+                                "ans": "I was SVP Head of of Sales & Operations"
+                            }
+                        ],
+                        "challenge": [
+                            {
+                                "qus": "For what projects/services did your company hire e intelligence?",
+                                "ans": "We were starting a B2B web-based subscription content service and we hired e-Intelligence to build the website UX/UI, front-end and back-end functionality, SEO optimization and design extrapolation (applying static design pdf's into working web pages)."
+                            }
+                        ],
+                        "solution": [
+                            {
+                                "qus": "How did you select this vendor?",
+                                "ans": "We has a competitive three-bid process and e-Intelligence had the winning proposal with lowest price, fasted turnaround and most strategic recommendations)."
+                            },
+                            {
+                                "qus": "Describe the project in detail and walk through the stages of the project.",
+                                "ans": "Design wireframe, build website page flow in dynamic modules, coordinate back-end with SalesForce, apply and expand on design and creative implementation, de-bug, be responsive to input and direction changes, optimize for search and launch"
+                            },
+                            {
+                                "qus": "How many resources from the vendor's team worked with you, and what were their positions?",
+                                "ans": "5 Project Lead, 2 Sr. Developers, UI/UX designer and QA Software tester. We also had weekly involvement from Sr. Management included, not individually scoped."
+                            }
+                        ],
+                        "results": [
+                            {
+                                "qus": "Can you share any outcomes from the project that demonstrate progress or success?",
+                                "ans": "The project exceed expectations for monthly visitors and new users increased month over month ahead of plan. Back-end connection to SalesForce was seamless and data analysis worked without hitch. Transaction functions were also error-free."
+                            },
+                            {
+                                "qus": "How effective was the workflow between your team and theirs?",
+                                "ans": "Weekly meetings were very effective and e-Intelligence was responsive to outside of schedule requests on an as needed basis."
+                            },
+                            {
+                                "qus": "What did you find most impressive or unique about this company?",
+                                "ans": "They were strategic and knowledgeable. The walking is through the process and making the connection between our layperson direction and translating seamlessly to their coders in a more technical manner. We are marketers, not tech experts. No hidden costs or budget surprises."
+                            },
+                            {
+                                "qus": "Are there any areas for improvement or something they could have done differently?",
+                                "ans": "The project lead needed to be changed about 1/3 of the way through and the hand-off was bumpy. However, once the new team was in-place things flowed smoothly"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "Website Development for Marketing Agency",
+                    "reviewer_info": {
+                        "reviewer_name": "Victoria Prince",
+                        "reviewer_position": "Owner & Director, Touchpoints Marketing",
+                        "location": "Uttoxeter, United Kingdom",
+                        "company_size": "1-10 Employees",
+                        "review_type": "Online Review",
+                        "verified": true,
+                        "company_name": "Touchpoints Marketing"
+                    },
+                    "review_info": {
+                        "review_quote": "They were easy to communicate with, very proactive, and always on time.",
+                        "review_date": "September 12, 2022",
+                        "review_rating": {
+                            "overall_rating": "5.0",
+                            "rating_breakdown": {
+                                "Quality": "5.0",
+                                "Schedule": "5.0",
+                                "Cost": "5.0",
+                                "Willing to Refer": "5.0"
+                            }
+                        },
+                        "review_feedback_summary": "The site that e intelligence created was delivered to the end client. The team from e intelligence was very easy to communicate with, proactive, and punctual, making the engagement an easy experience."
+                    },
+                    "project_info": {
+                        "Services": "Web Development",
+                        "Project size": "Less than $10,000",
+                        "Project length": "Jan. - Mar. 2021",
+                        "project_summary": "A marketing agency hired e intelligence to create and develop a website for an end client. They architectured the website from scratch, taking care of front- and backend development."
+                    },
+                    "detailed_review": {
+                        "background": [
+                            {
+                                "qus": "Please describe your company and your position there.",
+                                "ans": "I am the owner of a Marketing Agency."
+                            }
+                        ],
+                        "challenge": [
+                            {
+                                "qus": "For what projects/services did your company hire e intelligence, and what were your goals?",
+                                "ans": "Web Design for a client"
+                            }
+                        ],
+                        "solution": [
+                            {
+                                "qus": "How did you select this vendor and what were the deciding factors?",
+                                "ans": "We knew the owner was reputable"
+                            },
+                            {
+                                "qus": "Describe the scope of work in detail, including the project steps, key deliverables, and technologies used.",
+                                "ans": "N/A"
+                            },
+                            {
+                                "qus": "How many people from the vendor's team worked with you, and what were their positions?",
+                                "ans": "I think there were 3 in the team who worked with us. One project manager and two specialists."
+                            }
+                        ],
+                        "results": [
+                            {
+                                "qus": "Can you share any measurable outcomes of the project or general feedback about the deliverables?",
+                                "ans": "No measurables from client"
+                            },
+                            {
+                                "qus": "Describe their project management style, including communication tools and timeliness.",
+                                "ans": "They were easy to communicate with, very proactive, and always on time."
+                            },
+                            {
+                                "qus": "What did you find most impressive or unique about this company?",
+                                "ans": "Very easy to do business with"
+                            },
+                            {
+                                "qus": "Are there any areas for improvement or something they could have done differently?",
+                                "ans": "N/A"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "E-Commerce Development for Digital Consulting Company",
+                    "reviewer_info": {
+                        "reviewer_name": "Vince Beekel",
+                        "reviewer_position": "Owner, Digital Consulting Company",
+                        "location": "Detroit, Michigan",
+                        "company_size": "1-10 Employees",
+                        "review_type": "Online Review",
+                        "verified": true,
+                        "company_name": "Digital Consulting Company"
+                    },
+                    "review_info": {
+                        "review_quote": "I liked their knowledge and quality of work.",
+                        "review_date": "August 26, 2022",
+                        "review_rating": {
+                            "overall_rating": "5.0",
+                            "rating_breakdown": {
+                                "Quality": "5.0",
+                                "Schedule": "5.0",
+                                "Cost": "5.0",
+                                "Willing to Refer": "5.0"
+                            }
+                        },
+                        "review_feedback_summary": "e intelligence's solution successfully fixed the shipping problem, enabling the customer to save money and headaches. The team ensured to meet the timelines while regularly conducting tests during the development process. Overall, their knowledge, work quality, and solution were unrivaled."
+                    },
+                    "project_info": {
+                        "Services": "E-Commerce Development",
+                        "Project size": "Less than $10,000",
+                        "Project length": "June - Aug. 2022",
+                        "project_summary": "e intelligence helped a digital consulting company develop a new shipping solution for their customer."
+                    },
+                    "detailed_review": {
+                        "background": [
+                            {
+                                "qus": "Please describe your company and your position there.",
+                                "ans": "Owner of a Digital Consulting Agency"
+                            }
+                        ],
+                        "challenge": [
+                            {
+                                "qus": "For what projects/services did your company hire e intelligence, and what were your goals?",
+                                "ans": "Web development. Needed them to create a new shipping solution for a client's e-commerce site."
+                            }
+                        ],
+                        "solution": [
+                            {
+                                "qus": "How did you select this vendor and what were the deciding factors?",
+                                "ans": "Quality of Work and Price Point"
+                            },
+                            {
+                                "qus": "Describe the scope of work in detail, including the project steps, key deliverables, and technologies used.",
+                                "ans": "We had a unique shipping issue that the platform couldn't handle and my old development team couldn't fix. And they were able to get my client the right shipping logic, saving my client a lot of money and headaches."
+                            },
+                            {
+                                "qus": "How many people from the vendor's team worked with you, and what were their positions?",
+                                "ans": "4-5 Account managers Web Developers"
+                            }
+                        ],
+                        "results": [
+                            {
+                                "qus": "Can you share any measurable outcomes of the project or general feedback about the deliverables?",
+                                "ans": "My clients will save $2-$5k a year on getting the right shipping amounts for each sale."
+                            },
+                            {
+                                "qus": "Describe their project management style, including communication tools and timeliness.",
+                                "ans": "Set reasonable timelines, met those timelines, and had us test the logic throughout the whole development process."
+                            },
+                            {
+                                "qus": "What did you find most impressive or unique about this company?",
+                                "ans": "I liked their knowledge and quality of work. They fixed an issue my old team couldn't. Really saved the day."
+                            },
+                            {
+                                "qus": "Are there any areas for improvement or something they could have done differently?",
+                                "ans": "No they were great."
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "Web Design & Dev for Commercial Real Estate Portal Business",
+                    "reviewer_info": {
+                        "reviewer_name": "Kamal Khurana",
+                        "reviewer_position": "Founder, Xpressspaces",
+                        "location": "India",
+                        "company_size": "1-10 Employees",
+                        "review_type": "Online Review",
+                        "verified": true,
+                        "company_name": "Xpressspaces"
+                    },
+                    "review_info": {
+                        "review_quote": "They were professional and swift.",
+                        "review_date": "June 22, 2020",
+                        "review_rating": {
+                            "overall_rating": "5.0",
+                            "rating_breakdown": {
+                                "Quality": "5.0",
+                                "Schedule": "5.0",
+                                "Cost": "5.0",
+                                "Willing to Refer": "5.0"
+                            }
+                        },
+                        "review_feedback_summary": "Thanks to their initiative and bold attitude, e-intelligence was able to succeed in delivering the desired product. They worked quickly and were an ideal partner."
+                    },
+                    "project_info": {
+                        "Services": "Web Development",
+                        "Project size": "Less than $10,000",
+                        "Project length": "Apr. 2019 - July 2020",
+                        "project_summary": "e-intelligence provided web design and development services, working on creating a commercial real estate e-marketplace. Additionally, they led digital marketing and Seo efforts."
+                    },
+                    "detailed_review": {
+                        "background": [
+                            {
+                                "qus": "Please describe your company and your position there.",
+                                "ans": "We are an e-marketplace for commercial real estate users, I am the Founder & Ceo of the company,"
+                            }
+                        ],
+                        "challenge": [
+                            {
+                                "qus": "For what projects/services did your company hire e-intelligence?",
+                                "ans": "For Web development, coding, and design."
+                            },
+                            {
+                                "qus": "What were your goals for this project?",
+                                "ans": "E-intelligence had to achieve a novel concept of e-marketplace through bidding and transaction closure in a complex world of commercial real estate, they achieved it 100% with their undaunting and never say no attitude, happy to share !!"
+                            }
+                        ],
+                        "solution": [
+                            {
+                                "qus": "How did you select this vendor?",
+                                "ans": "through some reference of the client"
+                            },
+                            {
+                                "qus": "Describe the project and the services they provided in detail.",
+                                "ans": "They are into Web development, SEO whole gamut of services like digital marketing."
+                            },
+                            {
+                                "qus": "What was the team composition?",
+                                "ans": "The project team had 5 people, 2 designers, and 2 coders and Aakash their company director used to coordinate for all the stuff"
+                            }
+                        ],
+                        "results": [
+                            {
+                                "qus": "Can you share any information that demonstrates the impact that this project has had on your business?",
+                                "ans": "Happy to see the final shape of the portal, its come out exactly the way I conceptualised ."
+                            },
+                            {
+                                "qus": "How was project management arranged and how effective was it?",
+                                "ans": "They were professional and swift."
+                            },
+                            {
+                                "qus": "What did you find most impressive about this company?",
+                                "ans": "Good team ."
+                            },
+                            {
+                                "qus": "Are there any areas for improvement?",
+                                "ans": "not really"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "title": "Digital Marketing for Diamond Jewelry Business",
+                    "reviewer_info": {
+                        "reviewer_name": "Preyas Panchal",
+                        "reviewer_position": "Co-Founder, Zivar.in",
+                        "location": "India",
+                        "company_size": "11-50 Employees",
+                        "review_type": "Online Review",
+                        "verified": true,
+                        "company_name": "Zivar.in"
+                    },
+                    "review_info": {
+                        "review_quote": "They have in-depth knowledge of their domain.",
+                        "review_date": "June 12, 2020",
+                        "review_rating": {
+                            "overall_rating": "5.0",
+                            "rating_breakdown": {
+                                "Quality": "5.0",
+                                "Schedule": "5.0",
+                                "Cost": "5.0",
+                                "Willing to Refer": "5.0"
+                            }
+                        },
+                        "review_feedback_summary": "e-intelligence has effectively increased the client's organic search traffic. They've improved the brand's digital positioning and have led successful social media campaigns. They adhere to timelines and demonstrate in-depth industry knowledge. They also show commitment to the project's success."
+                    },
+                    "project_info": {
+                        "Services": "Other Digital Marketing",
+                        "Project size": "Less than $10,000",
+                        "Project length": "Jan. 2018 - Ongoing",
+                        "project_summary": "e-intelligence conducted digital marketing for an Indian diamond jewelry retailer. They managed the client's paid ads, oversaw email marketing efforts, conducted on-page SEO, and led social media campaigns."
+                    },
+                    "detailed_review": {
+                        "background": [
+                            {
+                                "qus": "Please describe your company and your position there.",
+                                "ans": "I am Co Founder at Zivar.in. We are into online sales of Real Diamond Jewellery. ZIVAR.in is established by second generation diamantaires with the aim of providing customers “out of the ordinary jewellery” that honours our traditional values along with modern trends to make every single day special for the wearer."
+                            }
+                        ],
+                        "challenge": [
+                            {
+                                "qus": "For what projects/services did your company hire e-intelligence?",
+                                "ans": "We were looking for Digital Marketing firm who can increase our online sales through effective social media marketing, SEO & PPC"
+                            },
+                            {
+                                "qus": "What were your goals for this project?",
+                                "ans": "Our goal is to increase our organic reach and improve our online sales along with our brand positioned as reliable and trustworthy online jeweller who provides their customers “out of the ordinary jewellery” that honours traditional values along with modern trends to make every single day special for the wearer."
+                            }
+                        ],
+                        "solution": [
+                            {
+                                "qus": "How did you select this vendor?",
+                                "ans": "We researched online for best in the business digital marketing firms, studied their scope of work & customer reviews. E intelligence matched our requirements and we decided to go ahead with them."
+                            },
+                            {
+                                "qus": "Describe the scope of their work in detail.",
+                                "ans": "Social Media Marketing Search Engine Optimisation Google Ads (PPC) Remarketing on Social Media E mail marketing Web Development"
+                            },
+                            {
+                                "qus": "What was the team composition?",
+                                "ans": "I have worked closely with their Busienss Head, Project head & Business Relationship Manager."
+                            }
+                        ],
+                        "results": [
+                            {
+                                "qus": "Can you share any outcomes from the project that demonstrate progress or success?",
+                                "ans": "Since we have started working with them we have increased our organic reach and have improved our brand position on web. They have done number of campaigns on social media effectively."
+                            },
+                            {
+                                "qus": "How effective was the workflow between your team and theirs?",
+                                "ans": "The communication with the Relationship Manager/Project Manager has been smooth throughout. They adhere to timelines and output is delivered well within deadlines."
+                            },
+                            {
+                                "qus": "What did you find most impressive about this company?",
+                                "ans": "They have in-depth knowledge of their domain. We appreciate their dedication and commitment towards their clients. Also, they have very well experienced team."
+                            },
+                            {
+                                "qus": "Are there any areas for improvement?",
+                                "ans": "Nothing in particular. So far they have met our expectation and have been continuously improving their performance."
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}
